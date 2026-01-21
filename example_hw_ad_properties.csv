@@ -1,0 +1,9 @@
+campaign_id,name,device,banner_size,cost_type,cost_value,delivery_goal
+1234,American Express,DESKTOP,728x90,CPM,2.5,1000000
+5678,Coca Cola,DESKTOP,300x250,CPM,5.35,5500000
+1122,McDonalds,MOBILE,300x50,CPM,0.9,-1
+3344,Amazon,MOBILE,320x50,CPC,3.75,1000
+5566,Proctor & Gamble,DESKTOP,468x60,CPC,1.5,5000
+7788,Applebees,DESKTOP,300x600,CPC,1.25,5000
+9900,Toyota,DESKTOP,120x600,CPM,2.0,10000000
+1357,Walmart,MOBILE,320x100,CPM,1.1,-1

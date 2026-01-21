@@ -1,0 +1,1228 @@
+date,hour,day_of_week,campaign_id,city,total_impressions,total_clicks,total_conversions
+2024-11-01,0,4,1234,"New York, New York",6721,15,0.0
+2024-11-01,0,4,5678,"New York, New York",6077,36,1.0
+2024-11-01,0,4,5566,"Los Angeles, California",5482,16,0.0
+2024-11-01,1,4,1234,"Dallas-Fort Worth, Texas",6461,16,0.0
+2024-11-01,1,4,5678,"New York, New York",7305,42,3.0
+2024-11-01,1,4,5566,"New York, New York",6751,26,1.0
+2024-11-01,2,4,1234,"Los Angeles, California",4828,6,0.0
+2024-11-01,2,4,5678,"Los Angeles, California",5348,21,1.0
+2024-11-01,2,4,5566,"Houston, Texas",4418,16,0.0
+2024-11-01,3,4,1234,"New York, New York",5236,23,0.0
+2024-11-01,3,4,5678,"Chicago, Illinois",5522,31,1.0
+2024-11-01,3,4,5566,"New York, New York",7693,36,0.0
+2024-11-01,4,4,1234,"Chicago, Illinois",7080,20,0.0
+2024-11-01,4,4,5678,"New York, New York",8452,40,0.0
+2024-11-01,4,4,5566,"Dallas-Fort Worth, Texas",6025,27,0.0
+2024-11-01,5,4,1234,"Dallas-Fort Worth, Texas",7537,14,0.0
+2024-11-01,5,4,5678,"New York, New York",6324,29,0.0
+2024-11-01,5,4,5566,"New York, New York",7260,24,0.0
+2024-11-01,6,4,1234,"New York, New York",8075,27,1.0
+2024-11-01,6,4,5678,"Washington, D.C.",7694,43,0.0
+2024-11-01,6,4,5566,"Philadelphia, Pennsylvania",6857,31,0.0
+2024-11-01,7,4,1234,"Atlanta, Georgia",9562,19,0.0
+2024-11-01,7,4,5678,"New York, New York",7370,50,1.0
+2024-11-01,7,4,5566,"New York, New York",7636,38,1.0
+2024-11-01,8,4,1234,"Houston, Texas",9969,23,0.0
+2024-11-01,8,4,5678,"Chicago, Illinois",8989,36,0.0
+2024-11-01,8,4,5566,"Los Angeles, California",9015,33,0.0
+2024-11-01,9,4,1234,"New York, New York",11418,30,1.0
+2024-11-01,9,4,5678,"Washington, D.C.",9525,36,0.0
+2024-11-01,9,4,5566,"Houston, Texas",9270,33,1.0
+2024-11-01,10,4,1234,"Atlanta, Georgia",10659,24,0.0
+2024-11-01,10,4,5678,"Los Angeles, California",9132,41,0.0
+2024-11-01,10,4,5566,"New York, New York",11036,51,0.0
+2024-11-01,11,4,1234,"Houston, Texas",11952,28,0.0
+2024-11-01,11,4,5678,"Chicago, Illinois",10955,48,0.0
+2024-11-01,11,4,5566,"Los Angeles, California",10500,37,0.0
+2024-11-01,12,4,1234,"New York, New York",13050,30,0.0
+2024-11-01,12,4,5678,"Los Angeles, California",11593,66,1.0
+2024-11-01,12,4,5566,"New York, New York",14203,39,0.0
+2024-11-01,13,4,1234,"New York, New York",10569,22,0.0
+2024-11-01,13,4,5678,"New York, New York",13127,64,0.0
+2024-11-01,13,4,5566,"New York, New York",12683,52,0.0
+2024-11-01,14,4,1234,"New York, New York",8487,12,0.0
+2024-11-01,14,4,5678,"Boston (Manchester), Massachusetts",9456,50,0.0
+2024-11-01,14,4,5566,"Dallas-Fort Worth, Texas",11200,41,0.0
+2024-11-01,15,4,1234,"Boston (Manchester), Massachusetts",5333,3,0.0
+2024-11-01,15,4,5678,"Chicago, Illinois",5446,25,0.0
+2024-11-01,15,4,5566,"Philadelphia, Pennsylvania",4852,14,0.0
+2024-11-01,16,4,1234,"San Francisco-Oakland-San Jose, California",8272,17,1.0
+2024-11-01,16,4,5678,"San Francisco-Oakland-San Jose, California",10055,52,0.0
+2024-11-01,16,4,5566,"Houston, Texas",7625,34,0.0
+2024-11-01,17,4,1234,"New York, New York",12475,38,1.0
+2024-11-01,17,4,5678,"New York, New York",13262,78,2.0
+2024-11-01,17,4,5566,"Philadelphia, Pennsylvania",12745,47,0.0
+2024-11-01,18,4,1234,"New York, New York",11468,25,0.0
+2024-11-01,18,4,5678,"Los Angeles, California",11579,68,1.0
+2024-11-01,18,4,5566,"Chicago, Illinois",13330,51,0.0
+2024-11-01,19,4,1234,"Chicago, Illinois",14544,32,0.0
+2024-11-01,19,4,5678,"New York, New York",13815,69,0.0
+2024-11-01,19,4,5566,"New York, New York",13547,54,0.0
+2024-11-01,20,4,1234,"New York, New York",13784,30,0.0
+2024-11-01,20,4,5678,"Atlanta, Georgia",12189,58,0.0
+2024-11-01,20,4,5566,"Los Angeles, California",12514,56,0.0
+2024-11-01,21,4,1234,"New York, New York",13507,29,0.0
+2024-11-01,21,4,5678,"New York, New York",12424,54,1.0
+2024-11-01,21,4,5566,"New York, New York",12102,40,0.0
+2024-11-01,22,4,1234,"Chicago, Illinois",9711,18,0.0
+2024-11-01,22,4,5678,"Washington, D.C.",13319,74,0.0
+2024-11-01,22,4,5566,"Chicago, Illinois",11560,45,0.0
+2024-11-02,0,5,1234,"Dallas-Fort Worth, Texas",6953,19,0.0
+2024-11-02,0,5,5678,"New York, New York",5447,24,0.0
+2024-11-02,0,5,5566,"Philadelphia, Pennsylvania",6415,24,0.0
+2024-11-02,1,5,1234,"Philadelphia, Pennsylvania",5077,12,0.0
+2024-11-02,1,5,5678,"Philadelphia, Pennsylvania",5269,24,0.0
+2024-11-02,1,5,5566,"Philadelphia, Pennsylvania",5902,34,0.0
+2024-11-02,2,5,1234,"San Francisco-Oakland-San Jose, California",5891,15,0.0
+2024-11-02,2,5,5678,"Chicago, Illinois",6869,32,1.0
+2024-11-02,2,5,5566,"San Francisco-Oakland-San Jose, California",5920,24,0.0
+2024-11-02,3,5,1234,"Philadelphia, Pennsylvania",6851,26,0.0
+2024-11-02,3,5,5678,"New York, New York",5910,34,0.0
+2024-11-02,3,5,5566,"New York, New York",6915,18,0.0
+2024-11-02,4,5,1234,"New York, New York",7444,16,0.0
+2024-11-02,4,5,5678,"Houston, Texas",8059,36,0.0
+2024-11-02,4,5,5566,"New York, New York",6625,25,0.0
+2024-11-02,5,5,1234,"New York, New York",6448,7,0.0
+2024-11-02,5,5,5678,"Washington, D.C.",6907,42,0.0
+2024-11-02,5,5,5566,"Philadelphia, Pennsylvania",8117,39,0.0
+2024-11-02,6,5,1234,"Philadelphia, Pennsylvania",6961,21,0.0
+2024-11-02,6,5,5678,"Dallas-Fort Worth, Texas",7533,46,0.0
+2024-11-02,6,5,5566,"Dallas-Fort Worth, Texas",6990,29,0.0
+2024-11-02,7,5,1234,"New York, New York",6490,12,1.0
+2024-11-02,7,5,5678,"New York, New York",10137,52,0.0
+2024-11-02,7,5,5566,"San Francisco-Oakland-San Jose, California",7252,24,1.0
+2024-11-02,8,5,1234,"Washington, D.C.",6865,18,0.0
+2024-11-02,8,5,5678,"San Francisco-Oakland-San Jose, California",7415,35,0.0
+2024-11-02,8,5,5566,"Washington, D.C.",9748,44,0.0
+2024-11-02,9,5,1234,"Dallas-Fort Worth, Texas",9069,17,0.0
+2024-11-02,9,5,5678,"Chicago, Illinois",9615,49,1.0
+2024-11-02,9,5,5566,"New York, New York",10262,35,0.0
+2024-11-02,10,5,1234,"New York, New York",9896,24,0.0
+2024-11-02,10,5,5678,"New York, New York",10790,54,0.0
+2024-11-02,10,5,5566,"Los Angeles, California",10733,27,0.0
+2024-11-02,11,5,1234,"Boston (Manchester), Massachusetts",12431,35,1.0
+2024-11-02,11,5,5678,"Boston (Manchester), Massachusetts",10445,43,0.0
+2024-11-02,11,5,5566,"Houston, Texas",11018,49,1.0
+2024-11-02,12,5,1234,"New York, New York",12078,32,1.0
+2024-11-02,12,5,5678,"Los Angeles, California",13772,73,0.0
+2024-11-02,12,5,5566,"New York, New York",11613,54,1.0
+2024-11-02,13,5,1234,"Los Angeles, California",12356,30,0.0
+2024-11-02,13,5,5678,"New York, New York",12757,60,3.0
+2024-11-02,13,5,5566,"Houston, Texas",12153,40,0.0
+2024-11-02,14,5,1234,"Atlanta, Georgia",11622,31,0.0
+2024-11-02,14,5,5678,"Atlanta, Georgia",10444,50,0.0
+2024-11-02,14,5,5566,"Dallas-Fort Worth, Texas",10208,52,0.0
+2024-11-02,15,5,1234,"Los Angeles, California",6814,14,0.0
+2024-11-02,15,5,5678,"New York, New York",5887,31,0.0
+2024-11-02,15,5,5566,"New York, New York",4431,15,0.0
+2024-11-02,16,5,1234,"New York, New York",9863,24,0.0
+2024-11-02,16,5,5678,"New York, New York",10051,48,0.0
+2024-11-02,16,5,5566,"New York, New York",8239,37,0.0
+2024-11-02,17,5,1234,"Chicago, Illinois",12730,38,1.0
+2024-11-02,17,5,5678,"New York, New York",11640,67,0.0
+2024-11-02,17,5,5566,"New York, New York",14416,65,0.0
+2024-11-02,18,5,1234,"San Francisco-Oakland-San Jose, California",13263,36,1.0
+2024-11-02,18,5,5678,"Los Angeles, California",11089,50,0.0
+2024-11-02,18,5,5566,"Dallas-Fort Worth, Texas",12114,60,1.0
+2024-11-02,19,5,1234,"Philadelphia, Pennsylvania",12136,26,0.0
+2024-11-02,19,5,5678,"Boston (Manchester), Massachusetts",13973,74,0.0
+2024-11-02,19,5,5566,"San Francisco-Oakland-San Jose, California",12678,52,0.0
+2024-11-02,20,5,1234,"Philadelphia, Pennsylvania",15024,41,0.0
+2024-11-02,20,5,5678,"New York, New York",12900,61,1.0
+2024-11-02,20,5,5566,"Los Angeles, California",13129,54,0.0
+2024-11-02,21,5,1234,"Houston, Texas",13455,26,0.0
+2024-11-02,21,5,5678,"Chicago, Illinois",12004,67,1.0
+2024-11-02,21,5,5566,"Washington, D.C.",12720,51,0.0
+2024-11-02,22,5,1234,"Los Angeles, California",13073,26,0.0
+2024-11-02,22,5,5678,"New York, New York",10640,57,0.0
+2024-11-02,22,5,5566,"Washington, D.C.",10572,33,0.0
+2024-11-03,0,6,1234,"Dallas-Fort Worth, Texas",5858,17,0.0
+2024-11-03,0,6,5678,"New York, New York",3765,28,0.0
+2024-11-03,0,6,5566,"Los Angeles, California",4817,13,0.0
+2024-11-03,1,6,1234,"San Francisco-Oakland-San Jose, California",3274,7,1.0
+2024-11-03,1,6,5678,"Boston (Manchester), Massachusetts",4387,23,0.0
+2024-11-03,1,6,5566,"New York, New York",2196,6,0.0
+2024-11-03,2,6,1234,"Philadelphia, Pennsylvania",4666,8,0.0
+2024-11-03,2,6,5678,"New York, New York",3826,19,0.0
+2024-11-03,2,6,5566,"San Francisco-Oakland-San Jose, California",2214,10,0.0
+2024-11-03,3,6,1234,"New York, New York",4679,11,0.0
+2024-11-03,3,6,5678,"Philadelphia, Pennsylvania",4591,27,0.0
+2024-11-03,3,6,5566,"Los Angeles, California",4662,22,0.0
+2024-11-03,4,6,1234,"New York, New York",4201,8,0.0
+2024-11-03,4,6,5678,"Atlanta, Georgia",3129,9,0.0
+2024-11-03,4,6,5566,"Dallas-Fort Worth, Texas",3814,8,0.0
+2024-11-03,5,6,1234,"New York, New York",4339,7,0.0
+2024-11-03,5,6,5678,"San Francisco-Oakland-San Jose, California",3668,16,1.0
+2024-11-03,5,6,5566,"San Francisco-Oakland-San Jose, California",4245,14,0.0
+2024-11-03,6,6,1234,"San Francisco-Oakland-San Jose, California",4739,13,0.0
+2024-11-03,6,6,5678,"Chicago, Illinois",4529,19,0.0
+2024-11-03,6,6,5566,"Los Angeles, California",4589,15,0.0
+2024-11-03,7,6,1234,"Washington, D.C.",6022,17,0.0
+2024-11-03,7,6,5678,"Philadelphia, Pennsylvania",3694,15,0.0
+2024-11-03,7,6,5566,"Chicago, Illinois",3819,14,0.0
+2024-11-03,8,6,1234,"New York, New York",5985,19,0.0
+2024-11-03,8,6,5678,"New York, New York",4583,26,0.0
+2024-11-03,8,6,5566,"Washington, D.C.",4498,28,0.0
+2024-11-03,9,6,1234,"New York, New York",5478,13,0.0
+2024-11-03,9,6,5678,"San Francisco-Oakland-San Jose, California",5930,28,0.0
+2024-11-03,9,6,5566,"New York, New York",6026,22,0.0
+2024-11-03,10,6,1234,"Chicago, Illinois",4842,10,0.0
+2024-11-03,10,6,5678,"Boston (Manchester), Massachusetts",5508,25,0.0
+2024-11-03,10,6,5566,"Philadelphia, Pennsylvania",6294,29,0.0
+2024-11-03,11,6,1234,"Chicago, Illinois",6613,22,0.0
+2024-11-03,11,6,5678,"Los Angeles, California",7489,47,1.0
+2024-11-03,11,6,5566,"Atlanta, Georgia",7644,32,0.0
+2024-11-03,12,6,1234,"San Francisco-Oakland-San Jose, California",6902,17,0.0
+2024-11-03,12,6,5678,"San Francisco-Oakland-San Jose, California",6367,30,0.0
+2024-11-03,12,6,5566,"Los Angeles, California",7639,22,0.0
+2024-11-03,13,6,1234,"San Francisco-Oakland-San Jose, California",5762,13,0.0
+2024-11-03,13,6,5678,"New York, New York",8331,39,0.0
+2024-11-03,13,6,5566,"Los Angeles, California",6541,27,0.0
+2024-11-03,14,6,1234,"New York, New York",4989,10,0.0
+2024-11-03,14,6,5678,"New York, New York",7884,37,0.0
+2024-11-03,14,6,5566,"Los Angeles, California",6139,22,0.0
+2024-11-03,15,6,1234,"Boston (Manchester), Massachusetts",3481,16,0.0
+2024-11-03,15,6,5678,"Chicago, Illinois",4275,24,0.0
+2024-11-03,15,6,5566,"Los Angeles, California",4396,18,0.0
+2024-11-03,16,6,1234,"Houston, Texas",5949,11,0.0
+2024-11-03,16,6,5678,"Chicago, Illinois",6289,31,0.0
+2024-11-03,16,6,5566,"Boston (Manchester), Massachusetts",6047,26,0.0
+2024-11-03,17,6,1234,"Boston (Manchester), Massachusetts",7271,16,1.0
+2024-11-03,17,6,5678,"New York, New York",6463,34,0.0
+2024-11-03,17,6,5566,"Chicago, Illinois",7181,29,0.0
+2024-11-03,18,6,1234,"Dallas-Fort Worth, Texas",8380,25,0.0
+2024-11-03,18,6,5678,"Philadelphia, Pennsylvania",7133,46,0.0
+2024-11-03,18,6,5566,"New York, New York",7693,31,0.0
+2024-11-03,19,6,1234,"Philadelphia, Pennsylvania",8426,22,0.0
+2024-11-03,19,6,5678,"Washington, D.C.",9381,49,0.0
+2024-11-03,19,6,5566,"San Francisco-Oakland-San Jose, California",8513,42,0.0
+2024-11-03,20,6,1234,"San Francisco-Oakland-San Jose, California",6265,14,0.0
+2024-11-03,20,6,5678,"San Francisco-Oakland-San Jose, California",6353,35,1.0
+2024-11-03,20,6,5566,"New York, New York",7811,30,1.0
+2024-11-03,21,6,1234,"New York, New York",6616,23,0.0
+2024-11-03,21,6,5678,"New York, New York",5101,17,0.0
+2024-11-03,21,6,5566,"New York, New York",8265,33,0.0
+2024-11-03,22,6,1234,"New York, New York",5011,12,0.0
+2024-11-03,22,6,5678,"Los Angeles, California",8092,52,0.0
+2024-11-03,22,6,5566,"Los Angeles, California",7599,22,0.0
+2024-11-04,0,0,1234,"Boston (Manchester), Massachusetts",3147,10,0.0
+2024-11-04,0,0,5678,"New York, New York",3615,18,0.0
+2024-11-04,0,0,5566,"Boston (Manchester), Massachusetts",4509,23,0.0
+2024-11-04,1,0,1234,"Dallas-Fort Worth, Texas",3201,12,0.0
+2024-11-04,1,0,5678,"New York, New York",2319,13,0.0
+2024-11-04,1,0,5566,"San Francisco-Oakland-San Jose, California",1830,9,0.0
+2024-11-04,2,0,1234,"New York, New York",3636,7,0.0
+2024-11-04,2,0,5678,"San Francisco-Oakland-San Jose, California",3119,17,0.0
+2024-11-04,2,0,5566,"New York, New York",2801,14,0.0
+2024-11-04,3,0,1234,"New York, New York",3986,11,0.0
+2024-11-04,3,0,5678,"New York, New York",2843,12,0.0
+2024-11-04,3,0,5566,"Washington, D.C.",3513,16,0.0
+2024-11-04,4,0,1234,"New York, New York",3578,5,0.0
+2024-11-04,4,0,5678,"New York, New York",4240,26,0.0
+2024-11-04,4,0,5566,"Los Angeles, California",4176,21,0.0
+2024-11-04,5,0,1234,"San Francisco-Oakland-San Jose, California",5537,19,0.0
+2024-11-04,5,0,5678,"Washington, D.C.",2918,15,0.0
+2024-11-04,5,0,5566,"Houston, Texas",3189,14,0.0
+2024-11-04,6,0,1234,"Washington, D.C.",4789,16,0.0
+2024-11-04,6,0,5678,"New York, New York",5640,37,1.0
+2024-11-04,6,0,5566,"Philadelphia, Pennsylvania",3041,11,0.0
+2024-11-04,7,0,1234,"Washington, D.C.",4820,6,0.0
+2024-11-04,7,0,5678,"Los Angeles, California",5291,29,1.0
+2024-11-04,7,0,5566,"Philadelphia, Pennsylvania",4718,18,0.0
+2024-11-04,8,0,1234,"Chicago, Illinois",4072,11,0.0
+2024-11-04,8,0,5678,"New York, New York",3115,17,0.0
+2024-11-04,8,0,5566,"Chicago, Illinois",6141,35,1.0
+2024-11-04,9,0,1234,"San Francisco-Oakland-San Jose, California",5548,10,0.0
+2024-11-04,9,0,5678,"Los Angeles, California",6018,34,1.0
+2024-11-04,9,0,5566,"New York, New York",7241,28,0.0
+2024-11-04,10,0,1234,"New York, New York",5223,12,0.0
+2024-11-04,10,0,5678,"Boston (Manchester), Massachusetts",5862,25,0.0
+2024-11-04,10,0,5566,"Boston (Manchester), Massachusetts",8123,25,1.0
+2024-11-04,11,0,1234,"Los Angeles, California",6345,9,0.0
+2024-11-04,11,0,5678,"Dallas-Fort Worth, Texas",4677,18,0.0
+2024-11-04,11,0,5566,"Boston (Manchester), Massachusetts",4657,17,0.0
+2024-11-04,12,0,1234,"Washington, D.C.",6966,11,0.0
+2024-11-04,12,0,5678,"New York, New York",8091,37,0.0
+2024-11-04,12,0,5566,"Philadelphia, Pennsylvania",7848,34,0.0
+2024-11-04,13,0,1234,"Los Angeles, California",7269,24,0.0
+2024-11-04,13,0,5678,"Washington, D.C.",5670,23,2.0
+2024-11-04,13,0,5566,"Chicago, Illinois",7546,32,1.0
+2024-11-04,14,0,1234,"San Francisco-Oakland-San Jose, California",5152,11,0.0
+2024-11-04,14,0,5678,"Boston (Manchester), Massachusetts",8736,46,0.0
+2024-11-04,14,0,5566,"Chicago, Illinois",5675,21,0.0
+2024-11-04,15,0,1234,"Chicago, Illinois",2249,7,0.0
+2024-11-04,15,0,5678,"Atlanta, Georgia",2715,17,0.0
+2024-11-04,15,0,5566,"Los Angeles, California",3310,13,0.0
+2024-11-04,16,0,1234,"Chicago, Illinois",6761,17,0.0
+2024-11-04,16,0,5678,"Chicago, Illinois",5616,27,0.0
+2024-11-04,16,0,5566,"New York, New York",5331,18,0.0
+2024-11-04,17,0,1234,"Philadelphia, Pennsylvania",5494,17,0.0
+2024-11-04,17,0,5678,"San Francisco-Oakland-San Jose, California",5952,29,0.0
+2024-11-04,17,0,5566,"New York, New York",5690,22,0.0
+2024-11-04,18,0,1234,"New York, New York",7630,17,0.0
+2024-11-04,18,0,5678,"New York, New York",8337,31,0.0
+2024-11-04,18,0,5566,"New York, New York",6259,29,0.0
+2024-11-04,19,0,1234,"Houston, Texas",7837,11,0.0
+2024-11-04,19,0,5678,"New York, New York",6921,44,0.0
+2024-11-04,19,0,5566,"Philadelphia, Pennsylvania",8654,23,0.0
+2024-11-04,20,0,1234,"Chicago, Illinois",8759,18,0.0
+2024-11-04,20,0,5678,"Washington, D.C.",9225,50,0.0
+2024-11-04,20,0,5566,"Chicago, Illinois",7131,36,0.0
+2024-11-04,21,0,1234,"Los Angeles, California",8491,15,0.0
+2024-11-04,21,0,5678,"New York, New York",6858,38,0.0
+2024-11-04,21,0,5566,"Philadelphia, Pennsylvania",7763,22,0.0
+2024-11-04,22,0,1234,"Los Angeles, California",5213,10,0.0
+2024-11-04,22,0,5678,"New York, New York",4705,18,0.0
+2024-11-04,22,0,5566,"New York, New York",6456,23,0.0
+2024-11-05,0,1,1234,"Chicago, Illinois",5506,15,1.0
+2024-11-05,0,1,5678,"Philadelphia, Pennsylvania",4351,16,0.0
+2024-11-05,0,1,5566,"Los Angeles, California",5553,31,1.0
+2024-11-05,1,1,1234,"New York, New York",4659,8,0.0
+2024-11-05,1,1,5678,"San Francisco-Oakland-San Jose, California",3879,25,0.0
+2024-11-05,1,1,5566,"New York, New York",3921,12,0.0
+2024-11-05,2,1,1234,"Washington, D.C.",4977,11,1.0
+2024-11-05,2,1,5678,"Boston (Manchester), Massachusetts",5162,20,0.0
+2024-11-05,2,1,5566,"New York, New York",3689,9,0.0
+2024-11-05,3,1,1234,"Houston, Texas",5894,14,1.0
+2024-11-05,3,1,5678,"Los Angeles, California",4496,19,0.0
+2024-11-05,3,1,5566,"Washington, D.C.",5984,16,0.0
+2024-11-05,4,1,1234,"Houston, Texas",4036,8,0.0
+2024-11-05,4,1,5678,"Atlanta, Georgia",5282,23,0.0
+2024-11-05,4,1,5566,"Houston, Texas",6441,26,0.0
+2024-11-05,5,1,1234,"Los Angeles, California",4444,10,0.0
+2024-11-05,5,1,5678,"Los Angeles, California",6415,29,0.0
+2024-11-05,5,1,5566,"San Francisco-Oakland-San Jose, California",4407,23,0.0
+2024-11-05,6,1,1234,"Philadelphia, Pennsylvania",5410,16,0.0
+2024-11-05,6,1,5678,"New York, New York",5433,28,1.0
+2024-11-05,6,1,5566,"Philadelphia, Pennsylvania",4327,15,0.0
+2024-11-05,7,1,1234,"Chicago, Illinois",4313,6,0.0
+2024-11-05,7,1,5678,"Philadelphia, Pennsylvania",5353,28,0.0
+2024-11-05,7,1,5566,"San Francisco-Oakland-San Jose, California",5517,33,0.0
+2024-11-05,8,1,1234,"Los Angeles, California",7120,15,0.0
+2024-11-05,8,1,5678,"Boston (Manchester), Massachusetts",6866,39,0.0
+2024-11-05,8,1,5566,"Los Angeles, California",5794,28,0.0
+2024-11-05,9,1,1234,"Atlanta, Georgia",5802,12,0.0
+2024-11-05,9,1,5678,"New York, New York",8316,43,0.0
+2024-11-05,9,1,5566,"New York, New York",7611,34,0.0
+2024-11-05,10,1,1234,"New York, New York",7505,21,0.0
+2024-11-05,10,1,5678,"Los Angeles, California",6845,38,1.0
+2024-11-05,10,1,5566,"Los Angeles, California",8110,25,1.0
+2024-11-05,11,1,1234,"New York, New York",6730,11,0.0
+2024-11-05,11,1,5678,"New York, New York",6632,28,0.0
+2024-11-05,11,1,5566,"Los Angeles, California",8509,41,0.0
+2024-11-05,12,1,1234,"New York, New York",7381,16,1.0
+2024-11-05,12,1,5678,"New York, New York",6805,44,0.0
+2024-11-05,12,1,5566,"Los Angeles, California",8786,40,0.0
+2024-11-05,13,1,1234,"San Francisco-Oakland-San Jose, California",7803,22,0.0
+2024-11-05,13,1,5678,"Chicago, Illinois",8267,41,0.0
+2024-11-05,13,1,5566,"Washington, D.C.",9237,31,0.0
+2024-11-05,14,1,1234,"Chicago, Illinois",6600,20,0.0
+2024-11-05,14,1,5678,"New York, New York",4750,20,0.0
+2024-11-05,14,1,5566,"New York, New York",6722,27,0.0
+2024-11-05,15,1,1234,"Los Angeles, California",4115,12,0.0
+2024-11-05,15,1,5678,"Washington, D.C.",4236,20,0.0
+2024-11-05,15,1,5566,"Los Angeles, California",3811,15,0.0
+2024-11-05,16,1,1234,"Los Angeles, California",5928,15,0.0
+2024-11-05,16,1,5678,"Houston, Texas",7510,27,1.0
+2024-11-05,16,1,5566,"Los Angeles, California",6191,33,0.0
+2024-11-05,17,1,1234,"New York, New York",8033,12,0.0
+2024-11-05,17,1,5678,"Los Angeles, California",7540,37,0.0
+2024-11-05,17,1,5566,"New York, New York",7850,33,0.0
+2024-11-05,18,1,1234,"New York, New York",8551,19,0.0
+2024-11-05,18,1,5678,"Dallas-Fort Worth, Texas",7468,38,0.0
+2024-11-05,18,1,5566,"Philadelphia, Pennsylvania",6965,20,0.0
+2024-11-05,19,1,1234,"Los Angeles, California",8399,31,0.0
+2024-11-05,19,1,5678,"Houston, Texas",9273,57,0.0
+2024-11-05,19,1,5566,"New York, New York",9484,39,0.0
+2024-11-05,20,1,1234,"Washington, D.C.",8626,19,0.0
+2024-11-05,20,1,5678,"New York, New York",7608,41,0.0
+2024-11-05,20,1,5566,"Houston, Texas",8070,40,0.0
+2024-11-05,21,1,1234,"Los Angeles, California",7679,24,1.0
+2024-11-05,21,1,5678,"Chicago, Illinois",7848,37,0.0
+2024-11-05,21,1,5566,"New York, New York",8365,39,1.0
+2024-11-05,22,1,1234,"Boston (Manchester), Massachusetts",7919,21,0.0
+2024-11-05,22,1,5678,"Chicago, Illinois",7533,33,0.0
+2024-11-05,22,1,5566,"Dallas-Fort Worth, Texas",7905,28,0.0
+2024-11-06,0,2,1234,"Philadelphia, Pennsylvania",4167,13,0.0
+2024-11-06,0,2,5678,"Philadelphia, Pennsylvania",3595,17,0.0
+2024-11-06,0,2,5566,"Los Angeles, California",4671,18,0.0
+2024-11-06,1,2,1234,"San Francisco-Oakland-San Jose, California",4306,14,0.0
+2024-11-06,1,2,5678,"Boston (Manchester), Massachusetts",4532,18,0.0
+2024-11-06,1,2,5566,"Houston, Texas",3612,18,0.0
+2024-11-06,2,2,1234,"Chicago, Illinois",5831,10,0.0
+2024-11-06,2,2,5678,"San Francisco-Oakland-San Jose, California",5042,23,0.0
+2024-11-06,2,2,5566,"New York, New York",5963,20,0.0
+2024-11-06,3,2,1234,"New York, New York",4937,11,0.0
+2024-11-06,3,2,5678,"Los Angeles, California",6310,42,0.0
+2024-11-06,3,2,5566,"San Francisco-Oakland-San Jose, California",6244,24,0.0
+2024-11-06,4,2,1234,"New York, New York",4749,10,0.0
+2024-11-06,4,2,5678,"Washington, D.C.",4395,31,1.0
+2024-11-06,4,2,5566,"New York, New York",4843,22,0.0
+2024-11-06,5,2,1234,"New York, New York",4881,11,0.0
+2024-11-06,5,2,5678,"Los Angeles, California",6057,25,0.0
+2024-11-06,5,2,5566,"Dallas-Fort Worth, Texas",4602,20,0.0
+2024-11-06,6,2,1234,"New York, New York",6535,11,0.0
+2024-11-06,6,2,5678,"Philadelphia, Pennsylvania",4925,22,0.0
+2024-11-06,6,2,5566,"New York, New York",4979,14,0.0
+2024-11-06,7,2,1234,"San Francisco-Oakland-San Jose, California",7262,20,0.0
+2024-11-06,7,2,5678,"New York, New York",6113,37,0.0
+2024-11-06,7,2,5566,"New York, New York",5649,25,0.0
+2024-11-06,8,2,1234,"San Francisco-Oakland-San Jose, California",6388,17,0.0
+2024-11-06,8,2,5678,"Philadelphia, Pennsylvania",6241,21,0.0
+2024-11-06,8,2,5566,"Chicago, Illinois",7384,25,0.0
+2024-11-06,9,2,1234,"Los Angeles, California",8241,23,2.0
+2024-11-06,9,2,5678,"Philadelphia, Pennsylvania",7325,32,0.0
+2024-11-06,9,2,5566,"New York, New York",8972,38,0.0
+2024-11-06,10,2,1234,"New York, New York",8132,14,0.0
+2024-11-06,10,2,5678,"Washington, D.C.",8334,34,0.0
+2024-11-06,10,2,5566,"Atlanta, Georgia",9033,38,0.0
+2024-11-06,11,2,1234,"Boston (Manchester), Massachusetts",10010,20,0.0
+2024-11-06,11,2,5678,"Boston (Manchester), Massachusetts",8392,44,0.0
+2024-11-06,11,2,5566,"Los Angeles, California",9765,28,0.0
+2024-11-06,12,2,1234,"San Francisco-Oakland-San Jose, California",11400,28,0.0
+2024-11-06,12,2,5678,"New York, New York",9508,49,0.0
+2024-11-06,12,2,5566,"Dallas-Fort Worth, Texas",9268,42,0.0
+2024-11-06,13,2,1234,"New York, New York",9349,15,0.0
+2024-11-06,13,2,5678,"New York, New York",9998,53,0.0
+2024-11-06,13,2,5566,"Los Angeles, California",9033,37,0.0
+2024-11-06,14,2,1234,"San Francisco-Oakland-San Jose, California",8673,20,0.0
+2024-11-06,14,2,5678,"San Francisco-Oakland-San Jose, California",9895,40,0.0
+2024-11-06,14,2,5566,"New York, New York",7273,37,0.0
+2024-11-06,15,2,1234,"Philadelphia, Pennsylvania",2519,4,0.0
+2024-11-06,15,2,5678,"Philadelphia, Pennsylvania",1985,9,0.0
+2024-11-06,15,2,5566,"Philadelphia, Pennsylvania",5083,11,0.0
+2024-11-06,16,2,1234,"Washington, D.C.",7303,19,0.0
+2024-11-06,16,2,5678,"New York, New York",8080,32,0.0
+2024-11-06,16,2,5566,"New York, New York",7937,20,0.0
+2024-11-06,17,2,1234,"Philadelphia, Pennsylvania",11052,34,1.0
+2024-11-06,17,2,5678,"San Francisco-Oakland-San Jose, California",9795,49,0.0
+2024-11-06,17,2,5566,"Los Angeles, California",10673,39,1.0
+2024-11-06,18,2,1234,"Philadelphia, Pennsylvania",10834,26,0.0
+2024-11-06,18,2,5678,"New York, New York",7767,29,0.0
+2024-11-06,18,2,5566,"New York, New York",10526,37,1.0
+2024-11-06,19,2,1234,"Los Angeles, California",8538,25,0.0
+2024-11-06,19,2,5678,"New York, New York",9693,45,0.0
+2024-11-06,19,2,5566,"Dallas-Fort Worth, Texas",10024,51,1.0
+2024-11-06,20,2,1234,"New York, New York",9645,21,0.0
+2024-11-06,20,2,5678,"Philadelphia, Pennsylvania",8829,37,0.0
+2024-11-06,20,2,5566,"Boston (Manchester), Massachusetts",9636,38,0.0
+2024-11-06,21,2,5678,"Chicago, Illinois",8411,44,1.0
+2024-11-06,21,2,5566,"Los Angeles, California",8588,26,0.0
+2024-11-06,22,2,5678,"Atlanta, Georgia",9667,47,0.0
+2024-11-06,22,2,5566,"New York, New York",9338,33,0.0
+2024-11-07,0,3,5678,"Washington, D.C.",5327,29,0.0
+2024-11-07,0,3,5566,"New York, New York",6001,27,1.0
+2024-11-07,1,3,5678,"New York, New York",5967,28,0.0
+2024-11-07,1,3,5566,"Los Angeles, California",5822,26,1.0
+2024-11-07,2,3,5678,"Washington, D.C.",5685,38,0.0
+2024-11-07,2,3,5566,"Los Angeles, California",6730,26,0.0
+2024-11-07,3,3,5678,"Los Angeles, California",6356,26,0.0
+2024-11-07,3,3,5566,"New York, New York",6743,29,1.0
+2024-11-07,4,3,5678,"Los Angeles, California",6889,31,0.0
+2024-11-07,4,3,5566,"Chicago, Illinois",3110,14,0.0
+2024-11-07,5,3,5678,"Chicago, Illinois",5928,35,0.0
+2024-11-07,5,3,5566,"New York, New York",5682,12,0.0
+2024-11-07,6,3,5678,"Atlanta, Georgia",8488,45,0.0
+2024-11-07,6,3,5566,"Dallas-Fort Worth, Texas",5915,22,0.0
+2024-11-07,7,3,5678,"Philadelphia, Pennsylvania",6337,37,0.0
+2024-11-07,7,3,5566,"Houston, Texas",6521,36,0.0
+2024-11-07,8,3,5678,"Houston, Texas",5810,31,0.0
+2024-11-07,8,3,5566,"New York, New York",6248,18,0.0
+2024-11-07,9,3,5678,"Boston (Manchester), Massachusetts",9022,47,0.0
+2024-11-07,9,3,5566,"Boston (Manchester), Massachusetts",7502,28,0.0
+2024-11-07,10,3,5678,"Philadelphia, Pennsylvania",9946,57,1.0
+2024-11-07,10,3,5566,"Chicago, Illinois",7916,17,1.0
+2024-11-07,11,3,5678,"New York, New York",8837,24,0.0
+2024-11-07,11,3,5566,"New York, New York",8687,38,1.0
+2024-11-07,12,3,5678,"Houston, Texas",12130,47,1.0
+2024-11-07,12,3,5566,"Atlanta, Georgia",9848,35,0.0
+2024-11-07,13,3,5678,"Houston, Texas",10867,49,0.0
+2024-11-07,13,3,5566,"Philadelphia, Pennsylvania",9655,42,0.0
+2024-11-07,14,3,5678,"Boston (Manchester), Massachusetts",8870,50,0.0
+2024-11-07,14,3,5566,"Dallas-Fort Worth, Texas",7115,32,0.0
+2024-11-07,15,3,5678,"Philadelphia, Pennsylvania",5493,30,1.0
+2024-11-07,15,3,5566,"New York, New York",5487,25,0.0
+2024-11-07,16,3,5678,"New York, New York",7968,44,0.0
+2024-11-07,16,3,5566,"Philadelphia, Pennsylvania",9440,44,0.0
+2024-11-07,17,3,5678,"Philadelphia, Pennsylvania",9639,48,0.0
+2024-11-07,17,3,5566,"Chicago, Illinois",10209,45,0.0
+2024-11-07,18,3,5678,"Chicago, Illinois",10646,39,0.0
+2024-11-07,18,3,5566,"Houston, Texas",11156,38,0.0
+2024-11-07,19,3,5678,"New York, New York",11217,49,0.0
+2024-11-07,19,3,5566,"Los Angeles, California",9229,26,1.0
+2024-11-07,20,3,5678,"New York, New York",10456,53,0.0
+2024-11-07,20,3,5566,"New York, New York",10857,36,0.0
+2024-11-07,21,3,5678,"San Francisco-Oakland-San Jose, California",10096,52,0.0
+2024-11-07,21,3,5566,"Washington, D.C.",10497,42,0.0
+2024-11-07,22,3,5678,"Los Angeles, California",8762,40,0.0
+2024-11-07,22,3,5566,"Los Angeles, California",8187,33,0.0
+2024-11-08,0,4,5678,"New York, New York",5368,24,0.0
+2024-11-08,0,4,5566,"Chicago, Illinois",6643,38,1.0
+2024-11-08,1,4,5678,"Washington, D.C.",6037,26,0.0
+2024-11-08,1,4,5566,"Atlanta, Georgia",6872,26,0.0
+2024-11-08,2,4,5678,"Houston, Texas",6361,24,0.0
+2024-11-08,2,4,5566,"Philadelphia, Pennsylvania",6052,26,0.0
+2024-11-08,3,4,5678,"Boston (Manchester), Massachusetts",6368,28,0.0
+2024-11-08,3,4,5566,"New York, New York",6299,24,0.0
+2024-11-08,4,4,5678,"Chicago, Illinois",6755,43,0.0
+2024-11-08,4,4,5566,"Los Angeles, California",7791,26,0.0
+2024-11-08,5,4,5678,"New York, New York",5571,20,0.0
+2024-11-08,5,4,5566,"Los Angeles, California",7260,27,0.0
+2024-11-08,6,4,5678,"Houston, Texas",7003,26,0.0
+2024-11-08,6,4,5566,"Chicago, Illinois",8310,22,0.0
+2024-11-08,7,4,5678,"Houston, Texas",8723,43,0.0
+2024-11-08,7,4,5566,"New York, New York",8480,27,0.0
+2024-11-08,8,4,5678,"New York, New York",8037,40,1.0
+2024-11-08,8,4,5566,"Philadelphia, Pennsylvania",8379,43,0.0
+2024-11-08,9,4,5678,"New York, New York",9674,45,0.0
+2024-11-08,9,4,5566,"Philadelphia, Pennsylvania",10182,40,0.0
+2024-11-08,10,4,5678,"New York, New York",10000,72,0.0
+2024-11-08,11,4,5678,"New York, New York",12338,74,0.0
+2024-11-08,12,4,5678,"Philadelphia, Pennsylvania",14115,68,0.0
+2024-11-08,13,4,5678,"Los Angeles, California",10770,47,0.0
+2024-11-08,14,4,5678,"Chicago, Illinois",8097,46,0.0
+2024-11-08,15,4,5678,"New York, New York",5649,24,0.0
+2024-11-08,16,4,5678,"Los Angeles, California",8946,56,1.0
+2024-11-08,17,4,5678,"New York, New York",12467,65,0.0
+2024-11-08,18,4,5678,"New York, New York",13098,72,1.0
+2024-11-08,19,4,5678,"New York, New York",13610,70,0.0
+2024-11-08,20,4,5678,"San Francisco-Oakland-San Jose, California",12661,66,0.0
+2024-11-08,21,4,5678,"San Francisco-Oakland-San Jose, California",11964,49,0.0
+2024-11-08,22,4,5678,"Washington, D.C.",11501,60,0.0
+2024-11-09,0,5,5678,"Los Angeles, California",4564,15,0.0
+2024-11-09,1,5,5678,"Philadelphia, Pennsylvania",5282,26,0.0
+2024-11-09,2,5,5678,"New York, New York",5471,30,0.0
+2024-11-09,3,5,5678,"Chicago, Illinois",7467,37,0.0
+2024-11-09,4,5,5678,"San Francisco-Oakland-San Jose, California",6646,34,1.0
+2024-11-09,5,5,5678,"San Francisco-Oakland-San Jose, California",6456,29,1.0
+2024-11-09,6,5,5678,"New York, New York",6431,30,0.0
+2024-11-09,7,5,5678,"New York, New York",7053,34,0.0
+2024-11-09,8,5,5678,"Chicago, Illinois",6771,43,0.0
+2024-11-09,9,5,5678,"Atlanta, Georgia",9663,51,0.0
+2024-11-09,10,5,5678,"Dallas-Fort Worth, Texas",9632,38,2.0
+2024-11-09,11,5,5678,"Philadelphia, Pennsylvania",13641,77,1.0
+2024-11-09,12,5,5678,"New York, New York",11896,60,0.0
+2024-11-09,13,5,5678,"Philadelphia, Pennsylvania",11038,58,0.0
+2024-11-09,14,5,5678,"New York, New York",8100,49,0.0
+2024-11-09,15,5,5678,"San Francisco-Oakland-San Jose, California",6819,37,1.0
+2024-11-09,16,5,5678,"Washington, D.C.",7924,35,0.0
+2024-11-09,17,5,5678,"New York, New York",11930,67,1.0
+2024-11-09,18,5,5678,"Dallas-Fort Worth, Texas",14413,71,0.0
+2024-11-09,19,5,5678,"New York, New York",14025,68,0.0
+2024-11-09,20,5,5678,"Houston, Texas",12509,70,1.0
+2024-11-09,21,5,5678,"Philadelphia, Pennsylvania",11825,60,0.0
+2024-11-09,22,5,5678,"Dallas-Fort Worth, Texas",11824,65,1.0
+2024-11-10,0,6,5678,"New York, New York",2891,14,0.0
+2024-11-10,1,6,5678,"Boston (Manchester), Massachusetts",3346,14,0.0
+2024-11-10,2,6,5678,"New York, New York",4483,28,0.0
+2024-11-10,3,6,5678,"New York, New York",2604,13,0.0
+2024-11-10,4,6,5678,"New York, New York",5285,26,0.0
+2024-11-10,5,6,5678,"San Francisco-Oakland-San Jose, California",4659,23,0.0
+2024-11-10,6,6,5678,"Los Angeles, California",5202,25,0.0
+2024-11-10,7,6,5678,"San Francisco-Oakland-San Jose, California",4515,16,0.0
+2024-11-10,8,6,5678,"New York, New York",5286,27,0.0
+2024-11-10,9,6,5678,"Philadelphia, Pennsylvania",5343,21,0.0
+2024-11-10,10,6,5678,"Washington, D.C.",5474,23,0.0
+2024-11-10,11,6,5678,"San Francisco-Oakland-San Jose, California",7968,38,0.0
+2024-11-10,12,6,5678,"New York, New York",7231,32,0.0
+2024-11-10,13,6,5678,"San Francisco-Oakland-San Jose, California",7867,35,1.0
+2024-11-10,14,6,5678,"San Francisco-Oakland-San Jose, California",2512,15,0.0
+2024-11-10,15,6,5678,"Los Angeles, California",2342,6,0.0
+2024-11-10,16,6,5678,"Dallas-Fort Worth, Texas",4484,19,0.0
+2024-11-10,17,6,5678,"Washington, D.C.",8124,42,0.0
+2024-11-10,18,6,5678,"Philadelphia, Pennsylvania",7687,35,0.0
+2024-11-10,19,6,5678,"New York, New York",6951,37,0.0
+2024-11-10,20,6,5678,"Los Angeles, California",8403,50,0.0
+2024-11-10,21,6,5678,"New York, New York",9074,41,0.0
+2024-11-10,22,6,5678,"New York, New York",6093,34,0.0
+2024-11-11,0,0,5678,"New York, New York",4487,27,0.0
+2024-11-11,1,0,5678,"New York, New York",2982,11,0.0
+2024-11-11,2,0,5678,"Los Angeles, California",3180,13,0.0
+2024-11-11,3,0,5678,"Los Angeles, California",4280,17,0.0
+2024-11-11,4,0,5678,"New York, New York",3776,21,0.0
+2024-11-11,5,0,5678,"New York, New York",5232,27,0.0
+2024-11-11,6,0,5678,"Washington, D.C.",4063,20,0.0
+2024-11-11,7,0,5678,"Chicago, Illinois",3482,16,0.0
+2024-11-11,8,0,5678,"Washington, D.C.",5069,30,0.0
+2024-11-11,9,0,5678,"Los Angeles, California",5449,32,0.0
+2024-11-11,10,0,5678,"Dallas-Fort Worth, Texas",5126,24,0.0
+2024-11-11,11,0,5678,"Chicago, Illinois",6143,25,0.0
+2024-11-11,12,0,5678,"Los Angeles, California",6887,29,0.0
+2024-11-11,13,0,5678,"New York, New York",6311,36,0.0
+2024-11-11,14,0,5678,"Philadelphia, Pennsylvania",5486,25,1.0
+2024-11-11,15,0,5678,"New York, New York",4280,27,0.0
+2024-11-11,16,0,5678,"Los Angeles, California",6405,37,0.0
+2024-11-11,17,0,5678,"Los Angeles, California",7436,33,0.0
+2024-11-11,18,0,5678,"New York, New York",7448,39,0.0
+2024-11-11,19,0,5678,"Dallas-Fort Worth, Texas",8580,42,0.0
+2024-11-11,20,0,5678,"Philadelphia, Pennsylvania",6797,26,0.0
+2024-11-11,21,0,5678,"Los Angeles, California",7335,33,0.0
+2024-11-11,22,0,5678,"Houston, Texas",6528,30,0.0
+2024-11-12,0,1,5678,"New York, New York",4330,35,1.0
+2024-11-12,1,1,5678,"Washington, D.C.",4188,19,0.0
+2024-11-12,2,1,5678,"New York, New York",4079,17,0.0
+2024-11-12,3,1,5678,"New York, New York",5140,30,0.0
+2024-11-12,4,1,5678,"Washington, D.C.",3042,18,0.0
+2024-11-12,5,1,5678,"Washington, D.C.",6907,45,0.0
+2024-11-12,6,1,5678,"New York, New York",4695,32,0.0
+2024-11-12,7,1,5678,"New York, New York",4365,20,0.0
+2024-11-12,8,1,5678,"Philadelphia, Pennsylvania",5650,33,0.0
+2024-11-12,9,1,5678,"Los Angeles, California",6579,25,1.0
+2024-11-12,10,1,5678,"New York, New York",7699,37,0.0
+2024-11-12,11,1,5678,"New York, New York",6355,32,0.0
+2024-11-12,12,1,5678,"Chicago, Illinois",9299,48,0.0
+2024-11-12,13,1,5678,"New York, New York",9423,52,0.0
+2024-11-12,14,1,5678,"Philadelphia, Pennsylvania",6055,27,0.0
+2024-11-12,15,1,5678,"Los Angeles, California",4659,20,0.0
+2024-11-12,16,1,5678,"Los Angeles, California",6438,36,1.0
+2024-11-12,17,1,5678,"Boston (Manchester), Massachusetts",7866,50,0.0
+2024-11-12,18,1,5678,"Washington, D.C.",8100,41,1.0
+2024-11-12,19,1,5678,"San Francisco-Oakland-San Jose, California",8529,36,0.0
+2024-11-12,20,1,5678,"Chicago, Illinois",7797,42,0.0
+2024-11-12,21,1,5678,"San Francisco-Oakland-San Jose, California",9211,39,0.0
+2024-11-12,22,1,5678,"New York, New York",8714,37,0.0
+2024-11-13,0,2,5678,"Chicago, Illinois",3933,27,2.0
+2024-11-13,1,2,5678,"Los Angeles, California",5014,19,1.0
+2024-11-13,2,2,5678,"Washington, D.C.",4384,16,0.0
+2024-11-13,3,2,5678,"New York, New York",5502,33,0.0
+2024-11-13,4,2,5678,"Philadelphia, Pennsylvania",6042,24,0.0
+2024-11-13,5,2,5678,"Houston, Texas",4715,21,0.0
+2024-11-13,6,2,5678,"Los Angeles, California",5364,28,0.0
+2024-11-13,7,2,5678,"New York, New York",6227,29,0.0
+2024-11-13,8,2,5678,"New York, New York",4560,13,0.0
+2024-11-13,9,2,5678,"Houston, Texas",7019,36,0.0
+2024-11-13,10,2,5678,"Chicago, Illinois",8014,56,0.0
+2024-11-13,11,2,5678,"Philadelphia, Pennsylvania",8223,34,0.0
+2024-11-13,12,2,5678,"Philadelphia, Pennsylvania",8690,32,0.0
+2024-11-13,13,2,5678,"New York, New York",9253,42,0.0
+2024-11-13,14,2,5678,"Los Angeles, California",6962,39,0.0
+2024-11-13,15,2,5678,"New York, New York",3488,15,0.0
+2024-11-13,16,2,5678,"Chicago, Illinois",8185,44,0.0
+2024-11-13,17,2,5678,"San Francisco-Oakland-San Jose, California",9423,47,0.0
+2024-11-13,18,2,5678,"New York, New York",9002,42,0.0
+2024-11-13,19,2,5678,"Chicago, Illinois",10202,59,0.0
+2024-11-13,20,2,5678,"Los Angeles, California",10902,58,0.0
+2024-11-13,21,2,5678,"Chicago, Illinois",10766,56,0.0
+2024-11-13,22,2,5678,"Los Angeles, California",8658,39,0.0
+2024-11-14,0,3,5678,"Chicago, Illinois",4492,20,0.0
+2024-11-14,1,3,5678,"Washington, D.C.",4335,20,0.0
+2024-11-14,2,3,5678,"New York, New York",3408,17,0.0
+2024-11-14,3,3,5678,"Dallas-Fort Worth, Texas",4250,18,0.0
+2024-11-14,4,3,5678,"Washington, D.C.",5478,24,0.0
+2024-11-14,5,3,5678,"Boston (Manchester), Massachusetts",6916,33,2.0
+2024-11-14,6,3,5678,"New York, New York",7084,31,0.0
+2024-11-14,7,3,5678,"Los Angeles, California",7972,36,0.0
+2024-11-14,8,3,5678,"Washington, D.C.",8046,38,1.0
+2024-11-14,9,3,5678,"New York, New York",8822,42,0.0
+2024-11-14,10,3,5678,"New York, New York",9300,41,1.0
+2024-11-14,11,3,5678,"Philadelphia, Pennsylvania",8602,34,0.0
+2024-11-14,12,3,5678,"Chicago, Illinois",10251,59,0.0
+2024-11-14,13,3,5678,"New York, New York",9252,59,0.0
+2024-11-14,14,3,5678,"Chicago, Illinois",7561,41,2.0
+2024-11-14,15,3,5678,"New York, New York",3813,24,1.0
+2024-11-14,16,3,5678,"Los Angeles, California",6397,41,0.0
+2024-11-14,17,3,5678,"Philadelphia, Pennsylvania",9826,50,0.0
+2024-11-14,18,3,5678,"Chicago, Illinois",10649,42,0.0
+2024-11-14,19,3,5678,"Los Angeles, California",11891,76,2.0
+2024-11-14,20,3,5678,"Los Angeles, California",10542,54,1.0
+2024-11-14,21,3,5678,"New York, New York",9089,38,0.0
+2024-11-14,22,3,5678,"New York, New York",9344,51,1.0
+2024-11-15,0,4,1122,"Houston, Texas",6041,9,
+2024-11-15,0,4,3344,"New York, New York",5875,17,
+2024-11-15,0,4,5678,"Los Angeles, California",6521,36,1.0
+2024-11-15,1,4,1122,"Chicago, Illinois",4503,10,
+2024-11-15,1,4,3344,"Dallas-Fort Worth, Texas",4996,15,
+2024-11-15,1,4,5678,"Atlanta, Georgia",6110,36,0.0
+2024-11-15,2,4,1122,"New York, New York",5055,10,
+2024-11-15,2,4,3344,"New York, New York",4868,9,
+2024-11-15,2,4,5678,"Boston (Manchester), Massachusetts",6524,42,1.0
+2024-11-15,3,4,1122,"New York, New York",4516,9,
+2024-11-15,3,4,3344,"Chicago, Illinois",6527,12,
+2024-11-15,3,4,5678,"Los Angeles, California",7733,53,0.0
+2024-11-15,4,4,1122,"New York, New York",6776,25,
+2024-11-15,4,4,3344,"San Francisco-Oakland-San Jose, California",6571,19,
+2024-11-15,4,4,5678,"Chicago, Illinois",6071,28,0.0
+2024-11-15,5,4,1122,"New York, New York",8026,26,
+2024-11-15,5,4,3344,"New York, New York",7720,18,
+2024-11-15,5,4,5678,"Washington, D.C.",6926,38,1.0
+2024-11-15,6,4,1122,"New York, New York",5556,17,
+2024-11-15,6,4,3344,"New York, New York",6486,8,
+2024-11-15,6,4,5678,"New York, New York",7239,34,0.0
+2024-11-15,7,4,1122,"Philadelphia, Pennsylvania",7493,23,
+2024-11-15,7,4,3344,"Chicago, Illinois",9407,21,
+2024-11-15,7,4,5678,"San Francisco-Oakland-San Jose, California",7962,43,1.0
+2024-11-15,8,4,1122,"Philadelphia, Pennsylvania",7799,24,
+2024-11-15,8,4,3344,"Boston (Manchester), Massachusetts",8667,21,
+2024-11-15,8,4,5678,"New York, New York",8130,36,0.0
+2024-11-15,9,4,1122,"Houston, Texas",11816,24,
+2024-11-15,9,4,3344,"Philadelphia, Pennsylvania",9422,18,
+2024-11-15,9,4,5678,"Houston, Texas",8808,51,1.0
+2024-11-15,10,4,1122,"Boston (Manchester), Massachusetts",10913,23,
+2024-11-15,10,4,3344,"New York, New York",11819,30,
+2024-11-15,10,4,5678,"Atlanta, Georgia",10646,71,0.0
+2024-11-15,11,4,1122,"Washington, D.C.",10114,31,
+2024-11-15,11,4,3344,"Dallas-Fort Worth, Texas",12711,35,
+2024-11-15,11,4,5678,"New York, New York",10853,69,1.0
+2024-11-15,12,4,1122,"Washington, D.C.",11949,38,
+2024-11-15,12,4,3344,"Chicago, Illinois",11600,31,
+2024-11-15,12,4,5678,"Dallas-Fort Worth, Texas",13588,80,0.0
+2024-11-15,13,4,1122,"Houston, Texas",10271,27,
+2024-11-15,13,4,3344,"New York, New York",10983,28,
+2024-11-15,13,4,5678,"Houston, Texas",12805,63,1.0
+2024-11-15,14,4,1122,"New York, New York",11181,33,
+2024-11-15,14,4,3344,"New York, New York",9434,22,
+2024-11-15,14,4,5678,"Philadelphia, Pennsylvania",9996,51,0.0
+2024-11-15,15,4,1122,"New York, New York",5513,12,
+2024-11-15,15,4,3344,"New York, New York",5126,14,
+2024-11-15,15,4,5678,"Atlanta, Georgia",6267,33,0.0
+2024-11-15,16,4,1122,"Los Angeles, California",9106,22,
+2024-11-15,16,4,3344,"Los Angeles, California",10512,17,
+2024-11-15,16,4,5678,"Dallas-Fort Worth, Texas",9504,61,0.0
+2024-11-15,17,4,1122,"Los Angeles, California",11516,28,
+2024-11-15,17,4,3344,"New York, New York",10584,32,
+2024-11-15,17,4,5678,"New York, New York",13732,59,1.0
+2024-11-15,18,4,1122,"New York, New York",11706,28,
+2024-11-15,18,4,3344,"Philadelphia, Pennsylvania",14221,33,
+2024-11-15,18,4,5678,"New York, New York",11948,75,0.0
+2024-11-15,19,4,1122,"Houston, Texas",13484,37,
+2024-11-15,19,4,3344,"New York, New York",14064,42,
+2024-11-15,19,4,5678,"New York, New York",15216,79,1.0
+2024-11-15,20,4,1122,"New York, New York",12969,28,
+2024-11-15,20,4,3344,"Philadelphia, Pennsylvania",12091,28,
+2024-11-15,20,4,5678,"Washington, D.C.",13049,77,1.0
+2024-11-15,21,4,1122,"New York, New York",10253,16,
+2024-11-15,21,4,3344,"Chicago, Illinois",11502,28,
+2024-11-15,21,4,5678,"Philadelphia, Pennsylvania",12323,68,0.0
+2024-11-15,22,4,1122,"San Francisco-Oakland-San Jose, California",11802,17,
+2024-11-15,22,4,3344,"Washington, D.C.",12385,29,
+2024-11-15,22,4,5678,"Chicago, Illinois",10123,46,0.0
+2024-11-16,0,5,1122,"San Francisco-Oakland-San Jose, California",7246,22,
+2024-11-16,0,5,3344,"Chicago, Illinois",5377,9,
+2024-11-16,0,5,5678,"Los Angeles, California",7437,40,0.0
+2024-11-16,1,5,1122,"New York, New York",5778,12,
+2024-11-16,1,5,3344,"New York, New York",6688,19,
+2024-11-16,1,5,5678,"Chicago, Illinois",4903,26,0.0
+2024-11-16,2,5,1122,"Boston (Manchester), Massachusetts",6541,18,
+2024-11-16,2,5,3344,"New York, New York",6878,26,
+2024-11-16,2,5,5678,"New York, New York",6030,21,0.0
+2024-11-16,3,5,1122,"Philadelphia, Pennsylvania",6058,21,
+2024-11-16,3,5,3344,"Chicago, Illinois",5487,6,
+2024-11-16,3,5,5678,"Boston (Manchester), Massachusetts",6576,27,1.0
+2024-11-16,4,5,1122,"Chicago, Illinois",7410,18,
+2024-11-16,4,5,3344,"New York, New York",6164,19,
+2024-11-16,4,5,5678,"New York, New York",7095,36,0.0
+2024-11-16,5,5,1122,"New York, New York",7916,15,
+2024-11-16,5,5,3344,"Dallas-Fort Worth, Texas",6386,13,
+2024-11-16,5,5,5678,"Philadelphia, Pennsylvania",6150,36,1.0
+2024-11-16,6,5,1122,"New York, New York",6902,12,
+2024-11-16,6,5,3344,"New York, New York",5029,4,
+2024-11-16,6,5,5678,"New York, New York",7719,33,0.0
+2024-11-16,7,5,1122,"New York, New York",7668,17,
+2024-11-16,7,5,3344,"Chicago, Illinois",8595,28,
+2024-11-16,7,5,5678,"New York, New York",8313,52,0.0
+2024-11-16,8,5,1122,"Chicago, Illinois",8993,16,
+2024-11-16,8,5,3344,"New York, New York",6769,14,
+2024-11-16,8,5,5678,"Washington, D.C.",8121,33,0.0
+2024-11-16,9,5,1122,"New York, New York",10037,27,
+2024-11-16,9,5,3344,"New York, New York",10084,24,
+2024-11-16,9,5,5678,"Philadelphia, Pennsylvania",11431,46,0.0
+2024-11-16,10,5,1122,"Los Angeles, California",11502,35,
+2024-11-16,10,5,3344,"New York, New York",11385,25,
+2024-11-16,10,5,5678,"New York, New York",9335,38,0.0
+2024-11-16,11,5,1122,"New York, New York",11458,30,
+2024-11-16,11,5,3344,"New York, New York",11080,16,
+2024-11-16,11,5,5678,"Dallas-Fort Worth, Texas",13718,74,0.0
+2024-11-16,12,5,1122,"Los Angeles, California",12890,29,
+2024-11-16,12,5,3344,"San Francisco-Oakland-San Jose, California",13325,37,
+2024-11-16,12,5,5678,"Dallas-Fort Worth, Texas",11564,59,0.0
+2024-11-16,13,5,1122,"Boston (Manchester), Massachusetts",12726,28,
+2024-11-16,13,5,3344,"Boston (Manchester), Massachusetts",13211,28,
+2024-11-16,13,5,5678,"New York, New York",11319,58,0.0
+2024-11-16,14,5,1122,"San Francisco-Oakland-San Jose, California",9967,26,
+2024-11-16,14,5,3344,"Chicago, Illinois",8952,17,
+2024-11-16,14,5,5678,"San Francisco-Oakland-San Jose, California",10669,55,0.0
+2024-11-16,15,5,1122,"New York, New York",6862,10,
+2024-11-16,15,5,3344,"Los Angeles, California",7207,9,
+2024-11-16,15,5,5678,"San Francisco-Oakland-San Jose, California",5849,37,0.0
+2024-11-16,16,5,1122,"Los Angeles, California",11273,26,
+2024-11-16,16,5,3344,"Boston (Manchester), Massachusetts",9294,23,
+2024-11-16,16,5,5678,"Philadelphia, Pennsylvania",9171,37,0.0
+2024-11-16,17,5,1122,"Chicago, Illinois",13098,30,
+2024-11-16,17,5,3344,"Washington, D.C.",10810,29,
+2024-11-16,17,5,5678,"San Francisco-Oakland-San Jose, California",13307,56,0.0
+2024-11-16,18,5,1122,"New York, New York",13852,34,
+2024-11-16,18,5,3344,"Chicago, Illinois",11840,22,
+2024-11-16,18,5,5678,"New York, New York",12006,67,0.0
+2024-11-16,19,5,1122,"Dallas-Fort Worth, Texas",13030,24,
+2024-11-16,19,5,3344,"New York, New York",14018,34,
+2024-11-16,19,5,5678,"New York, New York",10845,53,0.0
+2024-11-16,20,5,1122,"Los Angeles, California",12476,26,
+2024-11-16,20,5,3344,"Atlanta, Georgia",12919,30,
+2024-11-16,20,5,5678,"Philadelphia, Pennsylvania",12999,75,0.0
+2024-11-16,21,5,1122,"New York, New York",9826,27,
+2024-11-16,21,5,3344,"Los Angeles, California",11925,30,
+2024-11-16,21,5,5678,"Washington, D.C.",12468,56,0.0
+2024-11-16,22,5,1122,"San Francisco-Oakland-San Jose, California",11925,40,
+2024-11-16,22,5,3344,"New York, New York",11726,18,
+2024-11-16,22,5,5678,"Atlanta, Georgia",11485,56,0.0
+2024-11-17,0,6,1122,"New York, New York",2230,4,
+2024-11-17,0,6,5678,"Philadelphia, Pennsylvania",4261,22,0.0
+2024-11-17,1,6,1122,"New York, New York",4571,15,
+2024-11-17,1,6,5678,"Atlanta, Georgia",3213,14,0.0
+2024-11-17,2,6,1122,"Chicago, Illinois",3422,8,
+2024-11-17,2,6,5678,"Los Angeles, California",4302,17,0.0
+2024-11-17,3,6,1122,"Chicago, Illinois",2514,0,
+2024-11-17,3,6,5678,"New York, New York",3997,24,0.0
+2024-11-17,4,6,1122,"New York, New York",3327,9,
+2024-11-17,4,6,5678,"Atlanta, Georgia",3378,15,0.0
+2024-11-17,5,6,1122,"Atlanta, Georgia",6460,16,
+2024-11-17,5,6,5678,"Philadelphia, Pennsylvania",4710,22,0.0
+2024-11-17,6,6,1122,"New York, New York",3728,12,
+2024-11-17,6,6,5678,"New York, New York",3659,17,0.0
+2024-11-17,7,6,1122,"Boston (Manchester), Massachusetts",4773,6,
+2024-11-17,7,6,5678,"New York, New York",5594,28,0.0
+2024-11-17,8,6,1122,"New York, New York",5198,9,
+2024-11-17,8,6,5678,"Washington, D.C.",4660,19,0.0
+2024-11-17,9,6,1122,"Boston (Manchester), Massachusetts",8719,20,
+2024-11-17,9,6,5678,"Los Angeles, California",5913,28,0.0
+2024-11-17,10,6,1122,"Los Angeles, California",6939,19,
+2024-11-17,10,6,5678,"Washington, D.C.",6090,43,0.0
+2024-11-17,11,6,1122,"Washington, D.C.",7325,20,
+2024-11-17,11,6,5678,"San Francisco-Oakland-San Jose, California",6323,35,0.0
+2024-11-17,12,6,1122,"Boston (Manchester), Massachusetts",7633,16,
+2024-11-17,12,6,5678,"New York, New York",7836,25,0.0
+2024-11-17,13,6,1122,"Chicago, Illinois",6923,18,
+2024-11-17,13,6,5678,"New York, New York",8305,33,0.0
+2024-11-17,14,6,1122,"Chicago, Illinois",6931,21,
+2024-11-17,14,6,5678,"Philadelphia, Pennsylvania",6524,31,0.0
+2024-11-17,15,6,1122,"Washington, D.C.",3219,8,
+2024-11-17,15,6,5678,"New York, New York",4225,21,1.0
+2024-11-17,16,6,1122,"Philadelphia, Pennsylvania",4561,12,
+2024-11-17,16,6,5678,"Dallas-Fort Worth, Texas",4340,17,0.0
+2024-11-17,17,6,1122,"Los Angeles, California",5290,16,
+2024-11-17,17,6,5678,"New York, New York",9745,43,0.0
+2024-11-17,18,6,1122,"Los Angeles, California",7823,23,
+2024-11-17,18,6,5678,"New York, New York",7186,34,0.0
+2024-11-17,19,6,1122,"Chicago, Illinois",7342,20,
+2024-11-17,19,6,5678,"Boston (Manchester), Massachusetts",8940,46,0.0
+2024-11-17,20,6,1122,"Boston (Manchester), Massachusetts",8173,15,
+2024-11-17,20,6,5678,"New York, New York",7668,45,0.0
+2024-11-17,21,6,1122,"Dallas-Fort Worth, Texas",6807,14,
+2024-11-17,21,6,5678,"San Francisco-Oakland-San Jose, California",8730,44,0.0
+2024-11-17,22,6,1122,"Los Angeles, California",7562,11,
+2024-11-17,22,6,5678,"Los Angeles, California",7221,33,0.0
+2024-11-18,0,0,1122,"San Francisco-Oakland-San Jose, California",3979,10,
+2024-11-18,0,0,5678,"Chicago, Illinois",5241,33,0.0
+2024-11-18,1,0,1122,"Washington, D.C.",2839,8,
+2024-11-18,1,0,5678,"New York, New York",5098,23,0.0
+2024-11-18,2,0,1122,"Boston (Manchester), Massachusetts",3256,14,
+2024-11-18,2,0,5678,"New York, New York",3347,20,1.0
+2024-11-18,3,0,1122,"Philadelphia, Pennsylvania",3584,8,
+2024-11-18,3,0,5678,"Washington, D.C.",2721,13,0.0
+2024-11-18,4,0,1122,"New York, New York",2767,8,
+2024-11-18,4,0,5678,"Philadelphia, Pennsylvania",5627,29,0.0
+2024-11-18,5,0,1122,"New York, New York",4667,14,
+2024-11-18,5,0,5678,"Dallas-Fort Worth, Texas",4626,25,0.0
+2024-11-18,6,0,1122,"San Francisco-Oakland-San Jose, California",3107,6,
+2024-11-18,6,0,5678,"Chicago, Illinois",5167,17,0.0
+2024-11-18,7,0,1122,"Houston, Texas",4765,13,
+2024-11-18,7,0,5678,"Philadelphia, Pennsylvania",3102,11,0.0
+2024-11-18,8,0,1122,"New York, New York",3554,7,
+2024-11-18,8,0,5678,"New York, New York",4565,25,0.0
+2024-11-18,9,0,1122,"New York, New York",6172,10,
+2024-11-18,9,0,5678,"Philadelphia, Pennsylvania",4704,31,0.0
+2024-11-18,10,0,1122,"San Francisco-Oakland-San Jose, California",4860,12,
+2024-11-18,10,0,5678,"Washington, D.C.",5807,32,0.0
+2024-11-18,11,0,1122,"Los Angeles, California",7525,16,
+2024-11-18,11,0,5678,"Philadelphia, Pennsylvania",6120,21,0.0
+2024-11-18,12,0,1122,"Boston (Manchester), Massachusetts",7284,11,
+2024-11-18,12,0,5678,"Dallas-Fort Worth, Texas",8421,38,0.0
+2024-11-18,13,0,1122,"Los Angeles, California",7111,11,
+2024-11-18,13,0,5678,"Chicago, Illinois",8486,44,1.0
+2024-11-18,14,0,1122,"Philadelphia, Pennsylvania",4366,11,
+2024-11-18,14,0,5678,"Philadelphia, Pennsylvania",5979,31,0.0
+2024-11-18,15,0,1122,"New York, New York",2793,9,
+2024-11-18,15,0,5678,"Los Angeles, California",2012,18,0.0
+2024-11-18,16,0,1122,"New York, New York",5479,22,
+2024-11-18,16,0,5678,"New York, New York",7347,38,0.0
+2024-11-18,17,0,1122,"Chicago, Illinois",9138,16,
+2024-11-18,17,0,5678,"Houston, Texas",8498,35,0.0
+2024-11-18,18,0,1122,"New York, New York",7655,19,
+2024-11-18,18,0,5678,"New York, New York",6139,26,0.0
+2024-11-18,19,0,1122,"New York, New York",8030,13,
+2024-11-18,19,0,5678,"San Francisco-Oakland-San Jose, California",6771,23,1.0
+2024-11-18,20,0,1122,"New York, New York",8825,26,
+2024-11-18,20,0,5678,"Dallas-Fort Worth, Texas",8075,36,0.0
+2024-11-18,21,0,1122,"Chicago, Illinois",7990,21,
+2024-11-18,21,0,5678,"New York, New York",8340,40,1.0
+2024-11-18,22,0,1122,"Boston (Manchester), Massachusetts",5916,18,
+2024-11-18,22,0,5678,"Boston (Manchester), Massachusetts",5444,31,0.0
+2024-11-19,0,1,1122,"Atlanta, Georgia",3365,7,
+2024-11-19,0,1,5678,"San Francisco-Oakland-San Jose, California",4568,24,0.0
+2024-11-19,1,1,1122,"Chicago, Illinois",4757,15,
+2024-11-19,1,1,5678,"Los Angeles, California",5548,34,0.0
+2024-11-19,2,1,1122,"New York, New York",3935,7,
+2024-11-19,2,1,5678,"Los Angeles, California",2039,11,0.0
+2024-11-19,3,1,1122,"Boston (Manchester), Massachusetts",5069,15,
+2024-11-19,3,1,5678,"San Francisco-Oakland-San Jose, California",5208,37,0.0
+2024-11-19,4,1,1122,"San Francisco-Oakland-San Jose, California",3851,8,
+2024-11-19,4,1,5678,"New York, New York",5803,23,0.0
+2024-11-19,5,1,1122,"Washington, D.C.",4141,12,
+2024-11-19,5,1,5678,"New York, New York",6467,40,0.0
+2024-11-19,6,1,1122,"Boston (Manchester), Massachusetts",5464,13,
+2024-11-19,6,1,5678,"New York, New York",4229,24,0.0
+2024-11-19,7,1,1122,"New York, New York",5761,14,
+2024-11-19,7,1,5678,"Los Angeles, California",5503,27,0.0
+2024-11-19,8,1,1122,"San Francisco-Oakland-San Jose, California",7480,27,
+2024-11-19,8,1,5678,"New York, New York",3875,20,0.0
+2024-11-19,9,1,1122,"New York, New York",7728,16,
+2024-11-19,9,1,5678,"New York, New York",6725,28,0.0
+2024-11-19,10,1,1122,"Philadelphia, Pennsylvania",5846,11,
+2024-11-19,10,1,5678,"Washington, D.C.",6671,26,0.0
+2024-11-19,11,1,1122,"New York, New York",7372,21,
+2024-11-19,11,1,5678,"Los Angeles, California",7768,41,0.0
+2024-11-19,12,1,1122,"Los Angeles, California",8343,14,
+2024-11-19,12,1,5678,"Boston (Manchester), Massachusetts",7763,32,0.0
+2024-11-19,13,1,1122,"Dallas-Fort Worth, Texas",8124,12,
+2024-11-19,13,1,5678,"New York, New York",8443,36,0.0
+2024-11-19,14,1,1122,"Los Angeles, California",4966,11,
+2024-11-19,14,1,5678,"Philadelphia, Pennsylvania",5507,30,0.0
+2024-11-19,15,1,1122,"New York, New York",2917,7,
+2024-11-19,15,1,5678,"Los Angeles, California",2727,13,0.0
+2024-11-19,16,1,1122,"New York, New York",5855,12,
+2024-11-19,16,1,5678,"New York, New York",6759,38,0.0
+2024-11-19,17,1,1122,"Los Angeles, California",5884,10,
+2024-11-19,17,1,5678,"Atlanta, Georgia",7847,32,0.0
+2024-11-19,18,1,1122,"Chicago, Illinois",8014,19,
+2024-11-19,18,1,5678,"Dallas-Fort Worth, Texas",7885,47,0.0
+2024-11-19,19,1,1122,"New York, New York",8226,19,
+2024-11-19,19,1,5678,"Los Angeles, California",9385,42,0.0
+2024-11-19,20,1,1122,"Philadelphia, Pennsylvania",8937,24,
+2024-11-19,20,1,5678,"San Francisco-Oakland-San Jose, California",8490,51,0.0
+2024-11-19,21,1,1122,"Chicago, Illinois",7049,10,
+2024-11-19,21,1,5678,"Washington, D.C.",8607,48,0.0
+2024-11-19,22,1,1122,"New York, New York",7902,17,
+2024-11-19,22,1,5678,"Washington, D.C.",6323,30,0.0
+2024-11-20,0,2,1122,"New York, New York",4353,12,
+2024-11-20,0,2,5678,"Washington, D.C.",3059,16,0.0
+2024-11-20,1,2,1122,"New York, New York",3779,10,
+2024-11-20,1,2,5678,"Atlanta, Georgia",3941,21,0.0
+2024-11-20,2,2,1122,"Philadelphia, Pennsylvania",3189,8,
+2024-11-20,2,2,5678,"New York, New York",4358,26,0.0
+2024-11-20,3,2,1122,"Houston, Texas",5724,14,
+2024-11-20,3,2,5678,"Los Angeles, California",5051,30,0.0
+2024-11-20,4,2,1122,"Dallas-Fort Worth, Texas",6095,18,
+2024-11-20,4,2,5678,"Atlanta, Georgia",5667,22,0.0
+2024-11-20,5,2,1122,"Chicago, Illinois",5593,11,
+2024-11-20,5,2,5678,"Atlanta, Georgia",6862,18,0.0
+2024-11-20,6,2,1122,"New York, New York",4467,11,
+2024-11-20,6,2,5678,"Houston, Texas",6706,39,0.0
+2024-11-20,7,2,1122,"New York, New York",5643,14,
+2024-11-20,7,2,5678,"New York, New York",4836,23,0.0
+2024-11-20,8,2,1122,"Washington, D.C.",5705,7,
+2024-11-20,8,2,5678,"Dallas-Fort Worth, Texas",5958,31,0.0
+2024-11-20,9,2,1122,"Houston, Texas",7773,21,
+2024-11-20,9,2,5678,"New York, New York",8536,45,0.0
+2024-11-20,10,2,1122,"Dallas-Fort Worth, Texas",6355,17,
+2024-11-20,10,2,5678,"Houston, Texas",9041,55,0.0
+2024-11-20,11,2,1122,"Chicago, Illinois",7876,19,
+2024-11-20,11,2,5678,"Chicago, Illinois",9051,38,0.0
+2024-11-20,12,2,1122,"New York, New York",8902,19,
+2024-11-20,12,2,5678,"Philadelphia, Pennsylvania",8952,45,1.0
+2024-11-20,13,2,1122,"Boston (Manchester), Massachusetts",8192,17,
+2024-11-20,13,2,5678,"Los Angeles, California",9116,47,0.0
+2024-11-20,14,2,1122,"Dallas-Fort Worth, Texas",6990,15,
+2024-11-20,14,2,5678,"New York, New York",6829,37,1.0
+2024-11-20,15,2,1122,"Chicago, Illinois",6242,20,
+2024-11-20,15,2,5678,"New York, New York",2196,8,0.0
+2024-11-20,16,2,1122,"New York, New York",6444,11,
+2024-11-20,16,2,5678,"Washington, D.C.",6607,19,0.0
+2024-11-20,17,2,1122,"New York, New York",9890,19,
+2024-11-20,17,2,5678,"Houston, Texas",10863,63,0.0
+2024-11-20,18,2,1122,"Philadelphia, Pennsylvania",10653,27,
+2024-11-20,18,2,5678,"Atlanta, Georgia",10706,54,1.0
+2024-11-20,19,2,1122,"New York, New York",9934,17,
+2024-11-20,19,2,5678,"Houston, Texas",11574,70,0.0
+2024-11-20,20,2,1122,"Philadelphia, Pennsylvania",10980,33,
+2024-11-20,20,2,5678,"New York, New York",10556,47,0.0
+2024-11-20,21,2,1122,"Dallas-Fort Worth, Texas",9358,21,
+2024-11-20,21,2,5678,"New York, New York",9243,37,0.0
+2024-11-20,22,2,1122,"Los Angeles, California",8942,15,
+2024-11-20,22,2,5678,"New York, New York",7335,40,0.0
+2024-11-21,0,3,1122,"Los Angeles, California",5169,13,
+2024-11-21,0,3,5678,"Boston (Manchester), Massachusetts",5322,22,0.0
+2024-11-21,1,3,1122,"Atlanta, Georgia",6793,17,
+2024-11-21,1,3,5678,"Philadelphia, Pennsylvania",3839,25,0.0
+2024-11-21,2,3,1122,"San Francisco-Oakland-San Jose, California",4674,14,
+2024-11-21,2,3,5678,"New York, New York",5239,14,0.0
+2024-11-21,3,3,1122,"Chicago, Illinois",7011,10,
+2024-11-21,3,3,5678,"Chicago, Illinois",6076,25,0.0
+2024-11-21,4,3,1122,"New York, New York",5272,13,
+2024-11-21,4,3,5678,"Washington, D.C.",4810,38,0.0
+2024-11-21,5,3,1122,"New York, New York",5178,3,
+2024-11-21,5,3,5678,"New York, New York",5005,27,0.0
+2024-11-21,6,3,1122,"New York, New York",4776,8,
+2024-11-21,6,3,5678,"Boston (Manchester), Massachusetts",6524,34,0.0
+2024-11-21,7,3,1122,"Chicago, Illinois",7472,8,
+2024-11-21,7,3,5678,"Los Angeles, California",6493,27,0.0
+2024-11-21,8,3,1122,"Washington, D.C.",7388,13,
+2024-11-21,8,3,5678,"Los Angeles, California",5659,28,0.0
+2024-11-21,9,3,1122,"Chicago, Illinois",5171,21,
+2024-11-21,9,3,5678,"Dallas-Fort Worth, Texas",9873,44,0.0
+2024-11-21,10,3,1122,"San Francisco-Oakland-San Jose, California",7199,14,
+2024-11-21,10,3,5678,"Chicago, Illinois",8842,55,0.0
+2024-11-21,11,3,1122,"Washington, D.C.",8424,26,
+2024-11-21,11,3,5678,"Los Angeles, California",9538,62,0.0
+2024-11-21,12,3,1122,"Philadelphia, Pennsylvania",8708,30,
+2024-11-21,12,3,5678,"New York, New York",10886,59,0.0
+2024-11-21,13,3,1122,"Los Angeles, California",10052,22,
+2024-11-21,13,3,5678,"Boston (Manchester), Massachusetts",11553,68,0.0
+2024-11-21,14,3,1122,"Los Angeles, California",8869,14,
+2024-11-21,14,3,5678,"San Francisco-Oakland-San Jose, California",8529,45,0.0
+2024-11-21,15,3,1122,"Los Angeles, California",4953,9,
+2024-11-21,15,3,5678,"New York, New York",5417,31,1.0
+2024-11-21,16,3,1122,"New York, New York",8810,23,
+2024-11-21,16,3,5678,"Philadelphia, Pennsylvania",5808,27,0.0
+2024-11-21,17,3,1122,"New York, New York",8790,30,
+2024-11-21,17,3,5678,"New York, New York",11019,56,1.0
+2024-11-21,18,3,1122,"Boston (Manchester), Massachusetts",9994,21,
+2024-11-21,18,3,5678,"New York, New York",11514,65,2.0
+2024-11-21,19,3,1122,"Los Angeles, California",12229,26,
+2024-11-21,19,3,5678,"New York, New York",8659,51,1.0
+2024-11-21,20,3,1122,"Boston (Manchester), Massachusetts",10862,38,
+2024-11-21,20,3,5678,"Los Angeles, California",11946,59,1.0
+2024-11-21,21,3,1122,"Washington, D.C.",10441,30,
+2024-11-21,21,3,5678,"New York, New York",10137,55,0.0
+2024-11-21,22,3,1122,"Houston, Texas",10318,19,
+2024-11-21,22,3,5678,"New York, New York",9711,48,0.0
+2024-11-22,0,4,1122,"New York, New York",6686,21,
+2024-11-22,0,4,5678,"New York, New York",4727,25,0.0
+2024-11-22,1,4,1122,"Los Angeles, California",6698,14,
+2024-11-22,1,4,5678,"Chicago, Illinois",5424,29,0.0
+2024-11-22,2,4,1122,"New York, New York",6261,12,
+2024-11-22,2,4,5678,"Houston, Texas",5905,29,1.0
+2024-11-22,3,4,1122,"New York, New York",5977,16,
+2024-11-22,3,4,5678,"New York, New York",6787,27,0.0
+2024-11-22,4,4,1122,"New York, New York",6852,18,
+2024-11-22,4,4,5678,"Los Angeles, California",7177,34,1.0
+2024-11-22,5,4,1122,"New York, New York",7379,27,
+2024-11-22,5,4,5678,"New York, New York",8872,38,0.0
+2024-11-22,6,4,1122,"Boston (Manchester), Massachusetts",7403,17,
+2024-11-22,6,4,5678,"Chicago, Illinois",6975,29,0.0
+2024-11-22,7,4,1122,"Philadelphia, Pennsylvania",6961,16,
+2024-11-22,7,4,5678,"San Francisco-Oakland-San Jose, California",6168,39,1.0
+2024-11-22,8,4,1122,"San Francisco-Oakland-San Jose, California",8445,18,
+2024-11-22,8,4,5678,"Dallas-Fort Worth, Texas",8401,46,1.0
+2024-11-22,9,4,1122,"Los Angeles, California",9666,23,
+2024-11-22,9,4,5678,"San Francisco-Oakland-San Jose, California",9445,33,0.0
+2024-11-22,10,4,1122,"Chicago, Illinois",10094,21,
+2024-11-22,10,4,5678,"Atlanta, Georgia",9068,41,0.0
+2024-11-22,11,4,1122,"Philadelphia, Pennsylvania",9855,26,
+2024-11-22,11,4,5678,"New York, New York",10112,34,0.0
+2024-11-22,12,4,1122,"Chicago, Illinois",13628,33,
+2024-11-22,12,4,5678,"New York, New York",11995,51,0.0
+2024-11-22,13,4,1122,"Los Angeles, California",12106,21,
+2024-11-22,13,4,5678,"Los Angeles, California",11964,52,1.0
+2024-11-22,14,4,1122,"Dallas-Fort Worth, Texas",10532,22,
+2024-11-22,14,4,5678,"New York, New York",9234,45,0.0
+2024-11-22,15,4,1122,"Houston, Texas",5738,9,
+2024-11-22,15,4,5678,"Chicago, Illinois",6133,31,1.0
+2024-11-22,16,4,1122,"Los Angeles, California",10435,28,
+2024-11-22,16,4,5678,"New York, New York",9794,51,0.0
+2024-11-22,17,4,1122,"Los Angeles, California",11516,23,
+2024-11-22,17,4,5678,"New York, New York",12190,60,0.0
+2024-11-22,18,4,1122,"New York, New York",13462,43,
+2024-11-22,18,4,5678,"Atlanta, Georgia",15250,74,1.0
+2024-11-22,19,4,1122,"Atlanta, Georgia",12337,34,
+2024-11-22,19,4,5678,"New York, New York",13528,69,0.0
+2024-11-22,20,4,1122,"Los Angeles, California",12712,32,
+2024-11-22,20,4,5678,"Los Angeles, California",12522,60,0.0
+2024-11-22,21,4,1122,"Washington, D.C.",12343,20,
+2024-11-22,21,4,5678,"Los Angeles, California",9463,44,0.0
+2024-11-22,22,4,1122,"Dallas-Fort Worth, Texas",9452,24,
+2024-11-22,22,4,5678,"New York, New York",11372,55,0.0
+2024-11-23,0,5,5678,"Washington, D.C.",5076,28,0.0
+2024-11-23,1,5,5678,"New York, New York",7200,30,0.0
+2024-11-23,2,5,5678,"Los Angeles, California",6166,24,0.0
+2024-11-23,3,5,5678,"Los Angeles, California",6894,36,1.0
+2024-11-23,4,5,5678,"New York, New York",8456,38,1.0
+2024-11-23,5,5,5678,"Los Angeles, California",7165,34,0.0
+2024-11-23,6,5,5678,"New York, New York",6225,25,1.0
+2024-11-23,7,5,5678,"New York, New York",8964,42,1.0
+2024-11-23,8,5,5678,"Chicago, Illinois",7860,43,0.0
+2024-11-23,9,5,5678,"Chicago, Illinois",9899,46,0.0
+2024-11-23,10,5,5678,"Philadelphia, Pennsylvania",12721,57,0.0
+2024-11-23,11,5,5678,"Chicago, Illinois",11040,51,0.0
+2024-11-23,12,5,5678,"Los Angeles, California",12765,68,0.0
+2024-11-23,13,5,5678,"Philadelphia, Pennsylvania",11217,51,1.0
+2024-11-23,14,5,5678,"Washington, D.C.",9766,47,0.0
+2024-11-23,15,5,5678,"Chicago, Illinois",5900,31,1.0
+2024-11-23,16,5,5678,"Philadelphia, Pennsylvania",11161,56,0.0
+2024-11-23,17,5,5678,"New York, New York",11542,63,0.0
+2024-11-23,18,5,5678,"Boston (Manchester), Massachusetts",12845,61,0.0
+2024-11-23,19,5,5678,"Atlanta, Georgia",12744,63,0.0
+2024-11-23,20,5,5678,"Los Angeles, California",13512,77,1.0
+2024-11-23,21,5,5678,"Atlanta, Georgia",12317,65,2.0
+2024-11-23,22,5,5678,"Philadelphia, Pennsylvania",12311,35,0.0
+2024-11-24,0,6,5678,"Houston, Texas",3535,18,0.0
+2024-11-24,1,6,5678,"Los Angeles, California",3180,17,0.0
+2024-11-24,2,6,5678,"New York, New York",2919,23,0.0
+2024-11-24,3,6,5678,"San Francisco-Oakland-San Jose, California",3977,20,1.0
+2024-11-24,4,6,5678,"Los Angeles, California",4079,19,0.0
+2024-11-24,5,6,5678,"Chicago, Illinois",5272,27,0.0
+2024-11-24,6,6,5678,"Houston, Texas",4197,26,0.0
+2024-11-24,7,6,5678,"San Francisco-Oakland-San Jose, California",6018,36,1.0
+2024-11-24,8,6,5678,"New York, New York",6252,34,0.0
+2024-11-24,9,6,5678,"Washington, D.C.",6291,31,0.0
+2024-11-24,10,6,5678,"Chicago, Illinois",7938,41,0.0
+2024-11-24,11,6,5678,"Dallas-Fort Worth, Texas",7796,28,0.0
+2024-11-24,12,6,5678,"New York, New York",6606,36,0.0
+2024-11-24,13,6,5678,"Chicago, Illinois",5087,28,0.0
+2024-11-24,14,6,5678,"New York, New York",7505,35,0.0
+2024-11-24,15,6,5678,"San Francisco-Oakland-San Jose, California",3261,19,0.0
+2024-11-24,16,6,5678,"New York, New York",6788,30,0.0
+2024-11-24,17,6,5678,"Los Angeles, California",7450,36,1.0
+2024-11-24,18,6,5678,"Washington, D.C.",6407,32,1.0
+2024-11-24,19,6,5678,"New York, New York",7400,28,0.0
+2024-11-24,20,6,5678,"Houston, Texas",7548,26,0.0
+2024-11-24,21,6,5678,"New York, New York",6174,34,0.0
+2024-11-24,22,6,5678,"Los Angeles, California",6279,30,0.0
+2024-11-25,0,0,5678,"New York, New York",3425,18,0.0
+2024-11-25,1,0,5678,"Chicago, Illinois",3737,14,0.0
+2024-11-25,2,0,5678,"Los Angeles, California",4639,20,0.0
+2024-11-25,3,0,5678,"New York, New York",4045,18,0.0
+2024-11-25,4,0,5678,"Chicago, Illinois",410,1,0.0
+2024-11-25,5,0,5678,"New York, New York",4054,22,0.0
+2024-11-25,6,0,5678,"Boston (Manchester), Massachusetts",5561,21,0.0
+2024-11-25,7,0,5678,"Chicago, Illinois",5202,25,1.0
+2024-11-25,8,0,5678,"Atlanta, Georgia",7728,56,0.0
+2024-11-25,9,0,5678,"Los Angeles, California",7625,38,0.0
+2024-11-25,10,0,5678,"New York, New York",6561,31,0.0
+2024-11-25,11,0,5678,"Chicago, Illinois",7193,36,0.0
+2024-11-25,12,0,5678,"Los Angeles, California",9137,35,0.0
+2024-11-25,13,0,5678,"Chicago, Illinois",7447,31,0.0
+2024-11-25,14,0,5678,"Houston, Texas",3885,17,0.0
+2024-11-25,15,0,5678,"New York, New York",2086,8,0.0
+2024-11-25,16,0,5678,"New York, New York",5700,30,0.0
+2024-11-25,17,0,5678,"New York, New York",6134,22,0.0
+2024-11-25,18,0,5678,"Los Angeles, California",5718,26,0.0
+2024-11-25,19,0,5678,"Philadelphia, Pennsylvania",7235,38,0.0
+2024-11-25,20,0,5678,"New York, New York",7802,25,0.0
+2024-11-25,21,0,5678,"New York, New York",7844,34,0.0
+2024-11-25,22,0,5678,"Dallas-Fort Worth, Texas",5084,29,0.0
+2024-11-26,0,1,5678,"Philadelphia, Pennsylvania",5120,31,0.0
+2024-11-26,1,1,5678,"New York, New York",5213,32,0.0
+2024-11-26,2,1,5678,"Los Angeles, California",4236,20,0.0
+2024-11-26,3,1,5678,"Washington, D.C.",5530,23,0.0
+2024-11-26,4,1,5678,"Washington, D.C.",4159,24,1.0
+2024-11-26,5,1,5678,"Dallas-Fort Worth, Texas",3539,22,0.0
+2024-11-26,6,1,5678,"New York, New York",5768,31,1.0
+2024-11-26,7,1,5678,"San Francisco-Oakland-San Jose, California",5763,21,1.0
+2024-11-26,8,1,5678,"Los Angeles, California",4820,29,0.0
+2024-11-26,9,1,5678,"Los Angeles, California",5690,24,0.0
+2024-11-26,10,1,5678,"New York, New York",8109,43,0.0
+2024-11-26,11,1,5678,"Philadelphia, Pennsylvania",6884,37,0.0
+2024-11-26,12,1,5678,"Chicago, Illinois",7263,36,1.0
+2024-11-26,13,1,5678,"Philadelphia, Pennsylvania",8251,43,0.0
+2024-11-26,14,1,5678,"New York, New York",6587,37,0.0
+2024-11-26,15,1,5678,"Los Angeles, California",3681,14,0.0
+2024-11-26,16,1,5678,"New York, New York",6146,24,0.0
+2024-11-26,17,1,5678,"Los Angeles, California",6962,29,0.0
+2024-11-26,18,1,5678,"Chicago, Illinois",8596,51,0.0
+2024-11-26,19,1,5678,"Philadelphia, Pennsylvania",9432,53,0.0
+2024-11-26,20,1,5678,"Chicago, Illinois",9676,42,0.0
+2024-11-26,21,1,5678,"Philadelphia, Pennsylvania",7224,26,0.0
+2024-11-26,22,1,5678,"Chicago, Illinois",6870,35,0.0
+2024-11-27,0,2,5678,"Dallas-Fort Worth, Texas",3318,20,0.0
+2024-11-27,1,2,5678,"Los Angeles, California",2405,17,0.0
+2024-11-27,2,2,5678,"Dallas-Fort Worth, Texas",5656,23,0.0
+2024-11-27,3,2,5678,"San Francisco-Oakland-San Jose, California",5049,26,0.0
+2024-11-27,4,2,5678,"New York, New York",5126,33,0.0
+2024-11-27,5,2,5678,"Philadelphia, Pennsylvania",5556,23,0.0
+2024-11-27,6,2,5678,"Philadelphia, Pennsylvania",6017,25,0.0
+2024-11-27,7,2,5678,"Los Angeles, California",4968,22,0.0
+2024-11-27,8,2,5678,"New York, New York",4725,29,0.0
+2024-11-27,9,2,5678,"New York, New York",6642,32,0.0
+2024-11-27,10,2,5678,"New York, New York",8814,50,0.0
+2024-11-27,11,2,5678,"Philadelphia, Pennsylvania",9761,50,0.0
+2024-11-27,12,2,5678,"New York, New York",8528,40,0.0
+2024-11-27,13,2,5678,"Los Angeles, California",9675,49,0.0
+2024-11-27,14,2,5678,"New York, New York",5432,31,0.0
+2024-11-27,15,2,5678,"Chicago, Illinois",3285,19,0.0
+2024-11-27,16,2,5678,"New York, New York",7039,37,1.0
+2024-11-27,17,2,5678,"New York, New York",8861,39,0.0
+2024-11-27,18,2,5678,"New York, New York",7856,39,0.0
+2024-11-27,19,2,5678,"Houston, Texas",9443,47,0.0
+2024-11-27,20,2,5678,"Boston (Manchester), Massachusetts",7956,46,0.0
+2024-11-27,21,2,5678,"Houston, Texas",9575,47,0.0
+2024-11-27,22,2,5678,"New York, New York",9189,48,0.0
+2024-11-28,0,3,5678,"Philadelphia, Pennsylvania",6402,41,0.0
+2024-11-28,1,3,5678,"Philadelphia, Pennsylvania",4913,19,0.0
+2024-11-28,2,3,5678,"Boston (Manchester), Massachusetts",5993,29,2.0
+2024-11-28,3,3,5678,"San Francisco-Oakland-San Jose, California",5183,23,1.0
+2024-11-28,4,3,5678,"New York, New York",6355,31,0.0
+2024-11-28,5,3,5678,"Chicago, Illinois",6656,34,0.0
+2024-11-28,6,3,5678,"Los Angeles, California",5090,23,0.0
+2024-11-28,7,3,5678,"New York, New York",6579,32,0.0
+2024-11-28,8,3,5678,"Philadelphia, Pennsylvania",6205,18,0.0
+2024-11-28,9,3,5678,"San Francisco-Oakland-San Jose, California",8124,40,0.0
+2024-11-28,10,3,5678,"Washington, D.C.",8213,38,0.0
+2024-11-28,11,3,5678,"Houston, Texas",10106,50,0.0
+2024-11-28,12,3,5678,"Washington, D.C.",9359,41,0.0
+2024-11-28,13,3,5678,"Chicago, Illinois",10421,58,1.0
+2024-11-28,14,3,5678,"Dallas-Fort Worth, Texas",8297,39,1.0
+2024-11-28,15,3,5678,"Dallas-Fort Worth, Texas",5149,24,0.0
+2024-11-28,16,3,5678,"Los Angeles, California",7778,34,0.0
+2024-11-28,17,3,5678,"Washington, D.C.",9611,54,1.0
+2024-11-28,18,3,5678,"San Francisco-Oakland-San Jose, California",10835,58,0.0
+2024-11-28,19,3,5678,"New York, New York",11163,60,0.0
+2024-11-28,20,3,5678,"Philadelphia, Pennsylvania",10721,46,0.0
+2024-11-28,21,3,5678,"Chicago, Illinois",7321,37,0.0
+2024-11-28,22,3,5678,"Chicago, Illinois",8928,41,0.0
+2024-11-29,0,4,5678,"San Francisco-Oakland-San Jose, California",6377,40,0.0
+2024-11-29,1,4,5678,"Dallas-Fort Worth, Texas",7232,36,0.0
+2024-11-29,2,4,5678,"Houston, Texas",6992,25,0.0
+2024-11-29,3,4,5678,"Chicago, Illinois",6442,36,0.0
+2024-11-29,4,4,5678,"Washington, D.C.",5668,23,0.0
+2024-11-29,5,4,5678,"Atlanta, Georgia",7734,34,0.0
+2024-11-29,6,4,5678,"Los Angeles, California",6513,25,0.0
+2024-11-29,7,4,5678,"Washington, D.C.",8349,38,0.0
+2024-11-29,8,4,5678,"Chicago, Illinois",9040,42,0.0
+2024-11-29,9,4,5678,"Boston (Manchester), Massachusetts",9463,50,0.0
+2024-11-29,10,4,5678,"Los Angeles, California",10259,64,0.0
+2024-11-29,11,4,5678,"Philadelphia, Pennsylvania",11865,54,0.0
+2024-11-29,12,4,5678,"Philadelphia, Pennsylvania",11754,48,0.0
+2024-11-29,13,4,5678,"San Francisco-Oakland-San Jose, California",10929,63,0.0
+2024-11-29,14,4,5678,"Chicago, Illinois",10522,51,1.0
+2024-11-29,15,4,5678,"Dallas-Fort Worth, Texas",6155,38,0.0
+2024-11-29,16,4,5678,"Philadelphia, Pennsylvania",9158,62,0.0
+2024-11-29,17,4,5678,"New York, New York",11596,50,0.0
+2024-11-29,18,4,5678,"Philadelphia, Pennsylvania",11684,51,0.0
+2024-11-29,19,4,5678,"Washington, D.C.",12211,60,0.0
+2024-11-29,20,4,5678,"Los Angeles, California",11799,56,0.0
+2024-11-29,21,4,5678,"New York, New York",12386,70,0.0
+2024-11-29,22,4,5678,"New York, New York",10674,46,0.0
+2024-11-30,0,5,5678,"Houston, Texas",6158,27,0.0
+2024-11-30,1,5,5678,"Dallas-Fort Worth, Texas",6241,31,0.0
+2024-11-30,2,5,5678,"Philadelphia, Pennsylvania",6136,27,0.0
+2024-11-30,3,5,5678,"New York, New York",7197,39,0.0
+2024-11-30,4,5,5678,"Houston, Texas",7671,38,0.0
+2024-11-30,5,5,5678,"New York, New York",5287,23,0.0
+2024-11-30,6,5,5678,"New York, New York",7837,35,0.0
+2024-11-30,7,5,5678,"Dallas-Fort Worth, Texas",7358,31,0.0
+2024-11-30,8,5,5678,"Chicago, Illinois",9400,37,1.0
+2024-11-30,9,5,5678,"Los Angeles, California",12013,66,0.0
+2024-11-30,10,5,5678,"Washington, D.C.",10236,54,0.0
+2024-11-30,11,5,5678,"New York, New York",11936,62,0.0
+2024-11-30,12,5,5678,"Philadelphia, Pennsylvania",12281,75,0.0
+2024-11-30,13,5,5678,"Houston, Texas",12466,64,0.0
+2024-11-30,14,5,5678,"New York, New York",7781,48,1.0
+2024-11-30,15,5,5678,"San Francisco-Oakland-San Jose, California",7796,33,1.0
+2024-11-30,16,5,5678,"New York, New York",9379,61,1.0
+2024-11-30,17,5,5678,"San Francisco-Oakland-San Jose, California",12440,57,0.0
+2024-11-30,18,5,5678,"Chicago, Illinois",12947,73,0.0
+2024-11-30,19,5,5678,"New York, New York",13663,80,1.0
+2024-11-30,20,5,5678,"Philadelphia, Pennsylvania",14341,85,2.0
+2024-11-30,21,5,5678,"Washington, D.C.",12396,66,1.0
+2024-11-30,22,5,5678,"Dallas-Fort Worth, Texas",11780,59,1.0
